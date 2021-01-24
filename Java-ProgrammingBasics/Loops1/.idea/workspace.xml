@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2b78c5a-a3d2-480e-b5ca-07018c7777eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bkomGPKl8Atgs7HdyYRRdDY2kA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ConditionalStatementsAdvanced/src" />
+  </component>
+  <component name="RunManager" selected="Application.Password">
+    <configuration name="CleverLilly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CleverLilly" />
+      <module name="Loops1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital" />
+      <module name="Loops1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Password" />
+      <module name="Loops1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadText" />
+      <module name="Loops1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeTravel" />
+      <module name="Loops1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CleverLilly" />
+      <item itemvalue="Application.TimeTravel" />
+      <item itemvalue="Application.Hospital" />
+      <item itemvalue="Application.ReadText" />
+      <item itemvalue="Application.Password" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Password" />
+        <item itemvalue="Application.ReadText" />
+        <item itemvalue="Application.Hospital" />
+        <item itemvalue="Application.TimeTravel" />
+        <item itemvalue="Application.CleverLilly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2b78c5a-a3d2-480e-b5ca-07018c7777eb" name="Default Changelist" comment="" />
+      <created>1589185609903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589185609903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="139" key="FileChooserDialogImpl" timestamp="1589363598225">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1589363598225" />
+    <state width="1261" height="171" key="GridCell.Tab.0.bottom" timestamp="1589705912347">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="171" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1589705912347" />
+    <state width="1261" height="171" key="GridCell.Tab.0.center" timestamp="1589705912347">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="171" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1589705912347" />
+    <state width="1261" height="171" key="GridCell.Tab.0.left" timestamp="1589705912347">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="171" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1589705912347" />
+    <state width="1261" height="171" key="GridCell.Tab.0.right" timestamp="1589705912347">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="171" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1589705912347" />
+    <state width="1261" height="90" key="GridCell.Tab.1.bottom" timestamp="1589529724330">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="90" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1589529724330" />
+    <state width="1261" height="90" key="GridCell.Tab.1.center" timestamp="1589529724330">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="90" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1589529724330" />
+    <state width="1261" height="90" key="GridCell.Tab.1.left" timestamp="1589529724330">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="90" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1589529724330" />
+    <state width="1261" height="90" key="GridCell.Tab.1.right" timestamp="1589529724330">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="90" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1589529724330" />
+    <state x="410" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1589705220452">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="410" y="208" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1589705220452" />
+    <state x="154" y="92" width="1120" height="584" key="dock-window-1" timestamp="1589278751906">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="154" y="92" width="1120" height="584" key="dock-window-1/62.0.1304.768@62.0.1304.768" timestamp="1589278751906" />
+    <state x="96" y="4" key="new project wizard" timestamp="1589705909675">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="96" y="4" key="new project wizard/62.0.1304.768@62.0.1304.768" timestamp="1589705909675" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EvenPowOfN.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeftRightSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EvenOddSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EvenOddPositions.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Histogram.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CleverLilly.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
