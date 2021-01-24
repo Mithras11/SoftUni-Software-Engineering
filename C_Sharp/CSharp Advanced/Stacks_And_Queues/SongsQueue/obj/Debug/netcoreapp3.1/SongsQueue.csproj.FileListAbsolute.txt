@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.genruntimeconfig.cache

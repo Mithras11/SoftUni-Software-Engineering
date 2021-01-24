@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache

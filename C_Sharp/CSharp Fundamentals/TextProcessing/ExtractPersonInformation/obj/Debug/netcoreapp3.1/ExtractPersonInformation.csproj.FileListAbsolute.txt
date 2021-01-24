@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.exe
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.deps.json
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.csprojAssemblyReference.cache

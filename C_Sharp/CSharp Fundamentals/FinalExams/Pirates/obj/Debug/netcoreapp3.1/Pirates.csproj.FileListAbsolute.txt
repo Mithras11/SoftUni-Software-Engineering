@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\bin\Debug\netcoreapp3.1\Pirates.exe
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\bin\Debug\netcoreapp3.1\Pirates.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\bin\Debug\netcoreapp3.1\Pirates.dll
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\bin\Debug\netcoreapp3.1\Pirates.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.dll
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\Pirates\obj\Debug\netcoreapp3.1\Pirates.genruntimeconfig.cache

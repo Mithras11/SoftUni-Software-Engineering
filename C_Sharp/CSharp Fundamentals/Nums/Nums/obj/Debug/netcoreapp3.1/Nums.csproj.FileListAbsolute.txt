@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Nums\Nums\bin\Debug\netcoreapp3.1\Nums.exe
+C:\Users\Kaloyan\source\repos\Nums\Nums\bin\Debug\netcoreapp3.1\Nums.deps.json
+C:\Users\Kaloyan\source\repos\Nums\Nums\bin\Debug\netcoreapp3.1\Nums.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Nums\Nums\bin\Debug\netcoreapp3.1\Nums.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Nums\Nums\bin\Debug\netcoreapp3.1\Nums.dll
+C:\Users\Kaloyan\source\repos\Nums\Nums\bin\Debug\netcoreapp3.1\Nums.pdb
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.dll
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.pdb
+C:\Users\Kaloyan\source\repos\Nums\Nums\obj\Debug\netcoreapp3.1\Nums.genruntimeconfig.cache

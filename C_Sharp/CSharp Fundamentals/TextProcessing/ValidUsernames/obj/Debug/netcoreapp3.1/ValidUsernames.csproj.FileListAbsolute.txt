@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\bin\Debug\netcoreapp3.1\ValidUsernames.exe
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\bin\Debug\netcoreapp3.1\ValidUsernames.deps.json
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\bin\Debug\netcoreapp3.1\ValidUsernames.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\bin\Debug\netcoreapp3.1\ValidUsernames.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\bin\Debug\netcoreapp3.1\ValidUsernames.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\bin\Debug\netcoreapp3.1\ValidUsernames.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\obj\Debug\netcoreapp3.1\ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\obj\Debug\netcoreapp3.1\ValidUsernames.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\obj\Debug\netcoreapp3.1\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\obj\Debug\netcoreapp3.1\ValidUsernames.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\obj\Debug\netcoreapp3.1\ValidUsernames.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\ValidUsernames\obj\Debug\netcoreapp3.1\ValidUsernames.genruntimeconfig.cache

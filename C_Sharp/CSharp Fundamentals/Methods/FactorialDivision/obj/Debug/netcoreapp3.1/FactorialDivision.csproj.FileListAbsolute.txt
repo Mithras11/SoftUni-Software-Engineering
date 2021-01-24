@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.exe
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.deps.json
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\Kaloyan\source\repos\Methods\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.genruntimeconfig.cache

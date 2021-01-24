@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\bin\Debug\netcoreapp3.1\Tribonacci_sequence.exe
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\bin\Debug\netcoreapp3.1\Tribonacci_sequence.deps.json
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\bin\Debug\netcoreapp3.1\Tribonacci_sequence.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\bin\Debug\netcoreapp3.1\Tribonacci_sequence.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\bin\Debug\netcoreapp3.1\Tribonacci_sequence.dll
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\bin\Debug\netcoreapp3.1\Tribonacci_sequence.pdb
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\obj\Debug\netcoreapp3.1\Tribonacci_sequence.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\obj\Debug\netcoreapp3.1\Tribonacci_sequence.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\obj\Debug\netcoreapp3.1\Tribonacci_sequence.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\obj\Debug\netcoreapp3.1\Tribonacci_sequence.dll
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\obj\Debug\netcoreapp3.1\Tribonacci_sequence.pdb
+C:\Users\Kaloyan\source\repos\Methods\Tribonacci_sequence\obj\Debug\netcoreapp3.1\Tribonacci_sequence.genruntimeconfig.cache

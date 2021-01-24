@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.genruntimeconfig.cache

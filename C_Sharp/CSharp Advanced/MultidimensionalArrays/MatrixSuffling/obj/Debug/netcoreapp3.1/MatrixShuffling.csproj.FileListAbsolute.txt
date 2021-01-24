@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.exe
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.deps.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\MatrixSuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.genruntimeconfig.cache

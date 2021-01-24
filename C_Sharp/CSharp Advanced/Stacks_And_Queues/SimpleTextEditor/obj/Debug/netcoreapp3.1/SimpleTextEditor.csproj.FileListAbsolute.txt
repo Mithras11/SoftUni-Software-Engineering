@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.genruntimeconfig.cache

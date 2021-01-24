@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.exe
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.deps.json
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.dll
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\bin\Debug\netcoreapp3.1\AddAndSubstract.pdb
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.dll
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.pdb
+C:\Users\Kaloyan\source\repos\Methods\AddAndSubstract\obj\Debug\netcoreapp3.1\AddAndSubstract.genruntimeconfig.cache

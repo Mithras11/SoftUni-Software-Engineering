@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

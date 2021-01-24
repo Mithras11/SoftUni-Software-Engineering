@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.exe
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.deps.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.genruntimeconfig.cache

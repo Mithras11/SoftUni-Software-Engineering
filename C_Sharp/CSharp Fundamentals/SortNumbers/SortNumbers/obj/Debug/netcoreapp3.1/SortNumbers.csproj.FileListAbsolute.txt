@@ -1,0 +1,4 @@
+C:\Users\Kaloyan\source\repos\SortNumbers\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\SortNumbers\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\SortNumbers\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\SortNumbers\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.csproj.CoreCompileInputs.cache

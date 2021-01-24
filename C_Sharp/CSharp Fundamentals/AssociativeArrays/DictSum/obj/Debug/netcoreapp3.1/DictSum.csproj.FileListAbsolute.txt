@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\bin\Debug\netcoreapp3.1\DictSum.exe
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\bin\Debug\netcoreapp3.1\DictSum.deps.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\bin\Debug\netcoreapp3.1\DictSum.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\bin\Debug\netcoreapp3.1\DictSum.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\bin\Debug\netcoreapp3.1\DictSum.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\bin\Debug\netcoreapp3.1\DictSum.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\DictSum\obj\Debug\netcoreapp3.1\DictSum.genruntimeconfig.cache

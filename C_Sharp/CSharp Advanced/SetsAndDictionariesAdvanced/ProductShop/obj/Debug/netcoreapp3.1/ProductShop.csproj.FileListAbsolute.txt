@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.genruntimeconfig.cache

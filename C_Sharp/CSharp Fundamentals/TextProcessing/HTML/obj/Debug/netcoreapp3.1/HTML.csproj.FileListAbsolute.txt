@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.exe
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.deps.json
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.genruntimeconfig.cache

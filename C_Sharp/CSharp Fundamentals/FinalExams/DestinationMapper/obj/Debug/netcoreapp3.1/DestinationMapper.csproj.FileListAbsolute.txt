@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\bin\Debug\netcoreapp3.1\DestinationMapper.exe
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\bin\Debug\netcoreapp3.1\DestinationMapper.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\bin\Debug\netcoreapp3.1\DestinationMapper.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\bin\Debug\netcoreapp3.1\DestinationMapper.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\bin\Debug\netcoreapp3.1\DestinationMapper.dll
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\bin\Debug\netcoreapp3.1\DestinationMapper.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.dll
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\DestinationMapper\obj\Debug\netcoreapp3.1\DestinationMapper.genruntimeconfig.cache

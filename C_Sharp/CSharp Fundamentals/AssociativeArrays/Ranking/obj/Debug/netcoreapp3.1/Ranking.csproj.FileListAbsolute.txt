@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache

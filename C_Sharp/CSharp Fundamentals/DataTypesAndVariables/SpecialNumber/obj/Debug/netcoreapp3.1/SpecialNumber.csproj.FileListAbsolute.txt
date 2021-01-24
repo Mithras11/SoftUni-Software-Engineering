@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.exe
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.deps.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\bin\Debug\netcoreapp3.1\SpecialNumber.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SpecialNumber\obj\Debug\netcoreapp3.1\SpecialNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

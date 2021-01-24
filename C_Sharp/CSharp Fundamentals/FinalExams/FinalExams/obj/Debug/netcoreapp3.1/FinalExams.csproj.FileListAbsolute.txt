@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\FinalExams.exe
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\FinalExams.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\FinalExams.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\FinalExams.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\FinalExams.dll
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\bin\Debug\netcoreapp3.1\FinalExams.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.dll
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\FinalExams\obj\Debug\netcoreapp3.1\FinalExams.genruntimeconfig.cache

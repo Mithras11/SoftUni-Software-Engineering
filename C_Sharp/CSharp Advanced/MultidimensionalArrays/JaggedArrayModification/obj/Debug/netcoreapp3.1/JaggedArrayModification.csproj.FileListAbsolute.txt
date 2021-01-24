@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.exe
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.deps.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.genruntimeconfig.cache

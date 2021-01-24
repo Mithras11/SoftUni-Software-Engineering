@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.exe
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.deps.json
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.dll
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.pdb
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.dll
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.pdb
+C:\Users\Kaloyan\source\repos\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.genruntimeconfig.cache

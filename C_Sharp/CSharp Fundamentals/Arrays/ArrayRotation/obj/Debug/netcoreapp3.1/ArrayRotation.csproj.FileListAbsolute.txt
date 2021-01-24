@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.exe
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.deps.json
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.dll
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.pdb
+C:\Users\Kaloyan\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.genruntimeconfig.cache

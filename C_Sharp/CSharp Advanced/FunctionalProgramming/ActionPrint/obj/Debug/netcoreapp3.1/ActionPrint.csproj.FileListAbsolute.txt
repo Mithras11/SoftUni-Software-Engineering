@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.exe
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.deps.json
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.dll
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\bin\Debug\netcoreapp3.1\ActionPrint.pdb
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.dll
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.pdb
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\ActionPrint\obj\Debug\netcoreapp3.1\ActionPrint.genruntimeconfig.cache

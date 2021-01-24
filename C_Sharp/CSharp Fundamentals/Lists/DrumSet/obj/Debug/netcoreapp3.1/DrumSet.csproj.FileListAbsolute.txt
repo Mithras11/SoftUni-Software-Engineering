@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.exe
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.deps.json
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.dll
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.pdb
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.dll
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.pdb
+C:\Users\Kaloyan\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.genruntimeconfig.cache

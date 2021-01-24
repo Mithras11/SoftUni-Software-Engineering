@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Regex\Reg\bin\Debug\netcoreapp3.1\Reg.exe
+C:\Users\Kaloyan\source\repos\Regex\Reg\bin\Debug\netcoreapp3.1\Reg.deps.json
+C:\Users\Kaloyan\source\repos\Regex\Reg\bin\Debug\netcoreapp3.1\Reg.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Regex\Reg\bin\Debug\netcoreapp3.1\Reg.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Regex\Reg\bin\Debug\netcoreapp3.1\Reg.dll
+C:\Users\Kaloyan\source\repos\Regex\Reg\bin\Debug\netcoreapp3.1\Reg.pdb
+C:\Users\Kaloyan\source\repos\Regex\Reg\obj\Debug\netcoreapp3.1\Reg.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Regex\Reg\obj\Debug\netcoreapp3.1\Reg.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Regex\Reg\obj\Debug\netcoreapp3.1\Reg.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Regex\Reg\obj\Debug\netcoreapp3.1\Reg.dll
+C:\Users\Kaloyan\source\repos\Regex\Reg\obj\Debug\netcoreapp3.1\Reg.pdb
+C:\Users\Kaloyan\source\repos\Regex\Reg\obj\Debug\netcoreapp3.1\Reg.genruntimeconfig.cache

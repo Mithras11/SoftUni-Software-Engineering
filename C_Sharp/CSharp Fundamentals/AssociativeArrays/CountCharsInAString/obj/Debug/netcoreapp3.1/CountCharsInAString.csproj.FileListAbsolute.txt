@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.exe
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.deps.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.genruntimeconfig.cache

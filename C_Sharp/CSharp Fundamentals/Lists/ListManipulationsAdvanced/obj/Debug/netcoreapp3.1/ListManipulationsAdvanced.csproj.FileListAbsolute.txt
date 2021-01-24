@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\bin\Debug\netcoreapp3.1\ListManipulationsAdvanced.exe
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\bin\Debug\netcoreapp3.1\ListManipulationsAdvanced.deps.json
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\bin\Debug\netcoreapp3.1\ListManipulationsAdvanced.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\bin\Debug\netcoreapp3.1\ListManipulationsAdvanced.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\bin\Debug\netcoreapp3.1\ListManipulationsAdvanced.dll
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\bin\Debug\netcoreapp3.1\ListManipulationsAdvanced.pdb
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.dll
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.pdb
+C:\Users\Kaloyan\source\repos\Lists\ListManipulationsAdvanced\obj\Debug\netcoreapp3.1\ListManipulationsAdvanced.genruntimeconfig.cache

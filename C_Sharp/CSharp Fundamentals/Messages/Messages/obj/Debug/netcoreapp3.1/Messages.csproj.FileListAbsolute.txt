@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+C:\Users\Kaloyan\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\Kaloyan\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\Kaloyan\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache

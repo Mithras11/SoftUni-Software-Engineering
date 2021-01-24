@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.exe
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.deps.json
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+C:\Users\Kaloyan\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.genruntimeconfig.cache

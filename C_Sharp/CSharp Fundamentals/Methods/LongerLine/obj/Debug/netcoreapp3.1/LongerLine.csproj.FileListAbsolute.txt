@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.exe
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.deps.json
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.dll
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.pdb
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.dll
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.pdb
+C:\Users\Kaloyan\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.genruntimeconfig.cache

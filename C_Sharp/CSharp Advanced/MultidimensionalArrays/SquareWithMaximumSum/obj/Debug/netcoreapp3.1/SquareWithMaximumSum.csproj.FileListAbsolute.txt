@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.exe
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.deps.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.genruntimeconfig.cache

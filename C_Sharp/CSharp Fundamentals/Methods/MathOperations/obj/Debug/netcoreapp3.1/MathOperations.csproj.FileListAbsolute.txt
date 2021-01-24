@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Kaloyan\source\repos\Methods\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache

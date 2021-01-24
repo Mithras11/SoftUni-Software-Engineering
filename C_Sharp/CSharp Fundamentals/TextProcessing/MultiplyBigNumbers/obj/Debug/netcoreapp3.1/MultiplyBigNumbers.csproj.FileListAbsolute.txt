@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\bin\Debug\netcoreapp3.1\MultiplyBigNumbers.exe
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\bin\Debug\netcoreapp3.1\MultiplyBigNumbers.deps.json
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\bin\Debug\netcoreapp3.1\MultiplyBigNumbers.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\bin\Debug\netcoreapp3.1\MultiplyBigNumbers.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\bin\Debug\netcoreapp3.1\MultiplyBigNumbers.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\bin\Debug\netcoreapp3.1\MultiplyBigNumbers.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\MultiplyBigNumbers\obj\Debug\netcoreapp3.1\MultiplyBigNumbers.genruntimeconfig.cache

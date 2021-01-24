@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csprojAssemblyReference.cache

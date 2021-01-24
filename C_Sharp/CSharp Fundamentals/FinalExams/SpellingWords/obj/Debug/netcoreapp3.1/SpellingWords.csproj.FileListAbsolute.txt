@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\bin\Debug\netcoreapp3.1\SpellingWords.exe
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\bin\Debug\netcoreapp3.1\SpellingWords.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\bin\Debug\netcoreapp3.1\SpellingWords.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\bin\Debug\netcoreapp3.1\SpellingWords.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\bin\Debug\netcoreapp3.1\SpellingWords.dll
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\bin\Debug\netcoreapp3.1\SpellingWords.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.dll
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\SpellingWords\obj\Debug\netcoreapp3.1\SpellingWords.genruntimeconfig.cache

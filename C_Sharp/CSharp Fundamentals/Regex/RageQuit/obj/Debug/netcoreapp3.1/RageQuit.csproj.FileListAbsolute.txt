@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.exe
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.deps.json
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.dll
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.pdb
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.dll
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.pdb
+C:\Users\Kaloyan\source\repos\Regex\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.genruntimeconfig.cache

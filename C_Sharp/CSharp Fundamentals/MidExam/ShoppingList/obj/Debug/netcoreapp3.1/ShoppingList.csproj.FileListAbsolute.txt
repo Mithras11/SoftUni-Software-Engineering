@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\Kaloyan\source\repos\MidExam\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache

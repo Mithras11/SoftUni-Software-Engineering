@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\GenericArrayCreator\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache

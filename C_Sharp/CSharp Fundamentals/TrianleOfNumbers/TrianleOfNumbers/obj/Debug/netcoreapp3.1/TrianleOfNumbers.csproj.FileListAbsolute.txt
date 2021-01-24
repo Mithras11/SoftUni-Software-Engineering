@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\bin\Debug\netcoreapp3.1\TrianleOfNumbers.exe
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\bin\Debug\netcoreapp3.1\TrianleOfNumbers.deps.json
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\bin\Debug\netcoreapp3.1\TrianleOfNumbers.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\bin\Debug\netcoreapp3.1\TrianleOfNumbers.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\bin\Debug\netcoreapp3.1\TrianleOfNumbers.dll
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\bin\Debug\netcoreapp3.1\TrianleOfNumbers.pdb
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.dll
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.pdb
+C:\Users\Kaloyan\source\repos\TrianleOfNumbers\TrianleOfNumbers\obj\Debug\netcoreapp3.1\TrianleOfNumbers.genruntimeconfig.cache

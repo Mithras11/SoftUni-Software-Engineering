@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.genruntimeconfig.cache

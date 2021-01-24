@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\bin\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.exe
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\bin\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\bin\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\bin\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\bin\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.dll
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\bin\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.dll
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\HeroesOfCOdeANdLogic\obj\Debug\netcoreapp3.1\HeroesOfCOdeANdLogic.genruntimeconfig.cache

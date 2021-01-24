@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\bin\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\CitiesByContinentsAndCountries\obj\Debug\netcoreapp3.1\CitiesByContinentsAndCountries.genruntimeconfig.cache

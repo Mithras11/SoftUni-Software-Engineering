@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.exe
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.deps.json
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.dll
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.pdb
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.dll
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.pdb
+C:\Users\Kaloyan\source\repos\Regex\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.genruntimeconfig.cache

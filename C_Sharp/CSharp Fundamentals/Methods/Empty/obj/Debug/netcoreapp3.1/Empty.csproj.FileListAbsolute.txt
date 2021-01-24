@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Methods\Empty\bin\Debug\netcoreapp3.1\Empty.exe
+C:\Users\Kaloyan\source\repos\Methods\Empty\bin\Debug\netcoreapp3.1\Empty.deps.json
+C:\Users\Kaloyan\source\repos\Methods\Empty\bin\Debug\netcoreapp3.1\Empty.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\Empty\bin\Debug\netcoreapp3.1\Empty.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\Empty\bin\Debug\netcoreapp3.1\Empty.dll
+C:\Users\Kaloyan\source\repos\Methods\Empty\bin\Debug\netcoreapp3.1\Empty.pdb
+C:\Users\Kaloyan\source\repos\Methods\Empty\obj\Debug\netcoreapp3.1\Empty.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\Empty\obj\Debug\netcoreapp3.1\Empty.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\Empty\obj\Debug\netcoreapp3.1\Empty.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\Empty\obj\Debug\netcoreapp3.1\Empty.dll
+C:\Users\Kaloyan\source\repos\Methods\Empty\obj\Debug\netcoreapp3.1\Empty.pdb
+C:\Users\Kaloyan\source\repos\Methods\Empty\obj\Debug\netcoreapp3.1\Empty.genruntimeconfig.cache

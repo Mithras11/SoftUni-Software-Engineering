@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\bin\Debug\netcoreapp3.1\TheLift.exe
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\bin\Debug\netcoreapp3.1\TheLift.deps.json
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\bin\Debug\netcoreapp3.1\TheLift.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\bin\Debug\netcoreapp3.1\TheLift.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\bin\Debug\netcoreapp3.1\TheLift.dll
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\bin\Debug\netcoreapp3.1\TheLift.pdb
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.dll
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.pdb
+C:\Users\Kaloyan\source\repos\MidExam\TheLift\obj\Debug\netcoreapp3.1\TheLift.genruntimeconfig.cache

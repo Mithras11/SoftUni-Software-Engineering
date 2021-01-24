@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\bin\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FastFood\obj\Debug\netcoreapp3.1\FastFood.genruntimeconfig.cache

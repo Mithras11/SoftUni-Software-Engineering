@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\Users\Kaloyan\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\Kaloyan\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Kaloyan\source\repos\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Kaloyan\source\repos\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.exe
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.deps.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.dll
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.pdb
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.dll
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.pdb
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.exe
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.deps.json
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.dll
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\bin\Debug\netcoreapp3.1\SumAdjacent.pdb
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.dll
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.pdb
+C:\Users\Kaloyan\source\repos\Lists\SumAdjacent\obj\Debug\netcoreapp3.1\SumAdjacent.genruntimeconfig.cache

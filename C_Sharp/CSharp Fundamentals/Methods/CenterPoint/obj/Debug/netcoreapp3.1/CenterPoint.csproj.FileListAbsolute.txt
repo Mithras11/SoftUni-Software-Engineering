@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.exe
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.deps.json
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.dll
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\bin\Debug\netcoreapp3.1\CenterPoint.pdb
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.dll
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.pdb
+C:\Users\Kaloyan\source\repos\Methods\CenterPoint\obj\Debug\netcoreapp3.1\CenterPoint.genruntimeconfig.cache

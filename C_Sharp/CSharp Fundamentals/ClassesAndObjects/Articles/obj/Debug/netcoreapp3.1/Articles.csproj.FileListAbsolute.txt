@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

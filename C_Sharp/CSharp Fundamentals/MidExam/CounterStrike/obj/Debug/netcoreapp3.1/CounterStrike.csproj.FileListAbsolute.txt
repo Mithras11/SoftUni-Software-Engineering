@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.exe
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.deps.json
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\Kaloyan\source\repos\MidExam\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.genruntimeconfig.cache

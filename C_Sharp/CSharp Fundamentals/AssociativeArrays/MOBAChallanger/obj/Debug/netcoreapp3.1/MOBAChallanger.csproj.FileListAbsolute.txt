@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\bin\Debug\netcoreapp3.1\MOBAChallanger.exe
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\bin\Debug\netcoreapp3.1\MOBAChallanger.deps.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\bin\Debug\netcoreapp3.1\MOBAChallanger.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\bin\Debug\netcoreapp3.1\MOBAChallanger.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\bin\Debug\netcoreapp3.1\MOBAChallanger.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\bin\Debug\netcoreapp3.1\MOBAChallanger.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.dll
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.pdb
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\AssociativeArrays\MOBAChallanger\obj\Debug\netcoreapp3.1\MOBAChallanger.csprojAssemblyReference.cache

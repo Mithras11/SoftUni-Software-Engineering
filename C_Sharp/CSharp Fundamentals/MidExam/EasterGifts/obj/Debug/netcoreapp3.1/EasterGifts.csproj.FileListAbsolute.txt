@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\bin\Debug\netcoreapp3.1\EasterGifts.exe
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\bin\Debug\netcoreapp3.1\EasterGifts.deps.json
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\bin\Debug\netcoreapp3.1\EasterGifts.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\bin\Debug\netcoreapp3.1\EasterGifts.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\bin\Debug\netcoreapp3.1\EasterGifts.dll
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\bin\Debug\netcoreapp3.1\EasterGifts.pdb
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.dll
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.pdb
+C:\Users\Kaloyan\source\repos\MidExam\EasterGifts\obj\Debug\netcoreapp3.1\EasterGifts.genruntimeconfig.cache

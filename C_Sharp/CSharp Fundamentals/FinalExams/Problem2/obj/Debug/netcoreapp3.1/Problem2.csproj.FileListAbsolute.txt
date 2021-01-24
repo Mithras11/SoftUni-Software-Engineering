@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\bin\Debug\netcoreapp3.1\Problem2.exe
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\bin\Debug\netcoreapp3.1\Problem2.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\bin\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\bin\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\Problem2\obj\Debug\netcoreapp3.1\Problem2.genruntimeconfig.cache

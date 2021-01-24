@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

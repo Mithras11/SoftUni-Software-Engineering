@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.exe
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.deps.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.dll
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+C:\Users\Kaloyan\source\repos\DataTypesAndVariables\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.genruntimeconfig.cache

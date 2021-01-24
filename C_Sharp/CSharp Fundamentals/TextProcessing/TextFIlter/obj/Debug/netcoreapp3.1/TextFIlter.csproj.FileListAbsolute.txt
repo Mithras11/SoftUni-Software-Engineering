@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\bin\Debug\netcoreapp3.1\TextFIlter.exe
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\bin\Debug\netcoreapp3.1\TextFIlter.deps.json
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\bin\Debug\netcoreapp3.1\TextFIlter.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\bin\Debug\netcoreapp3.1\TextFIlter.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\bin\Debug\netcoreapp3.1\TextFIlter.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\bin\Debug\netcoreapp3.1\TextFIlter.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\obj\Debug\netcoreapp3.1\TextFIlter.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\obj\Debug\netcoreapp3.1\TextFIlter.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\obj\Debug\netcoreapp3.1\TextFIlter.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\obj\Debug\netcoreapp3.1\TextFIlter.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\obj\Debug\netcoreapp3.1\TextFIlter.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\TextFIlter\obj\Debug\netcoreapp3.1\TextFIlter.genruntimeconfig.cache

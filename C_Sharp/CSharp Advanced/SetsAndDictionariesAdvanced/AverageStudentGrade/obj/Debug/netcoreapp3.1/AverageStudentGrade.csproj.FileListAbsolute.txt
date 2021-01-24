@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\bin\Debug\netcoreapp3.1\AverageStudentGrade.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\bin\Debug\netcoreapp3.1\AverageStudentGrade.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\bin\Debug\netcoreapp3.1\AverageStudentGrade.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\bin\Debug\netcoreapp3.1\AverageStudentGrade.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\bin\Debug\netcoreapp3.1\AverageStudentGrade.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\bin\Debug\netcoreapp3.1\AverageStudentGrade.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\AverageStudentGrade\obj\Debug\netcoreapp3.1\AverageStudentGrade.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.exe
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.deps.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\Kaloyan\source\repos\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.genruntimeconfig.cache

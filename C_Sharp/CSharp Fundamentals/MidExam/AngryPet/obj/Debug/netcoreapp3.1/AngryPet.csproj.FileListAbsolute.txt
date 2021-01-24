@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\bin\Debug\netcoreapp3.1\AngryPet.exe
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\bin\Debug\netcoreapp3.1\AngryPet.deps.json
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\bin\Debug\netcoreapp3.1\AngryPet.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\bin\Debug\netcoreapp3.1\AngryPet.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\bin\Debug\netcoreapp3.1\AngryPet.dll
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\bin\Debug\netcoreapp3.1\AngryPet.pdb
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.dll
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.pdb
+C:\Users\Kaloyan\source\repos\MidExam\AngryPet\obj\Debug\netcoreapp3.1\AngryPet.genruntimeconfig.cache

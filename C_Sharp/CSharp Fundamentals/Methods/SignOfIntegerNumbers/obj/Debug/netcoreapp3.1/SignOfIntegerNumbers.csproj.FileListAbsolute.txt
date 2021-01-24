@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.exe
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.deps.json
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.dll
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.pdb
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.dll
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.pdb
+C:\Users\Kaloyan\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.genruntimeconfig.cache

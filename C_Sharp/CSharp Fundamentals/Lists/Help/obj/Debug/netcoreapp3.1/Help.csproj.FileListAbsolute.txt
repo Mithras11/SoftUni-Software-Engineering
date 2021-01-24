@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Lists\Help\bin\Debug\netcoreapp3.1\Help.exe
+C:\Users\Kaloyan\source\repos\Lists\Help\bin\Debug\netcoreapp3.1\Help.deps.json
+C:\Users\Kaloyan\source\repos\Lists\Help\bin\Debug\netcoreapp3.1\Help.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lists\Help\bin\Debug\netcoreapp3.1\Help.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lists\Help\bin\Debug\netcoreapp3.1\Help.dll
+C:\Users\Kaloyan\source\repos\Lists\Help\bin\Debug\netcoreapp3.1\Help.pdb
+C:\Users\Kaloyan\source\repos\Lists\Help\obj\Debug\netcoreapp3.1\Help.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\Help\obj\Debug\netcoreapp3.1\Help.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lists\Help\obj\Debug\netcoreapp3.1\Help.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\Help\obj\Debug\netcoreapp3.1\Help.dll
+C:\Users\Kaloyan\source\repos\Lists\Help\obj\Debug\netcoreapp3.1\Help.pdb
+C:\Users\Kaloyan\source\repos\Lists\Help\obj\Debug\netcoreapp3.1\Help.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\bin\Debug\netcoreapp3.1\ImitationGame.exe
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\bin\Debug\netcoreapp3.1\ImitationGame.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\bin\Debug\netcoreapp3.1\ImitationGame.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\bin\Debug\netcoreapp3.1\ImitationGame.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\bin\Debug\netcoreapp3.1\ImitationGame.dll
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\bin\Debug\netcoreapp3.1\ImitationGame.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.dll
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\ImitationGame\obj\Debug\netcoreapp3.1\ImitationGame.genruntimeconfig.cache

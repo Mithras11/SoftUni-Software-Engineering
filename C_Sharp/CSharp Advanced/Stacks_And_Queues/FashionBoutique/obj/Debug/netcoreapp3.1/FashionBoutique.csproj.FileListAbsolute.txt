@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\bin\Debug\netcoreapp3.1\CondenseArray.exe
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\bin\Debug\netcoreapp3.1\CondenseArray.deps.json
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\bin\Debug\netcoreapp3.1\CondenseArray.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\bin\Debug\netcoreapp3.1\CondenseArray.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\bin\Debug\netcoreapp3.1\CondenseArray.dll
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\bin\Debug\netcoreapp3.1\CondenseArray.pdb
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\obj\Debug\netcoreapp3.1\CondenseArray.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\obj\Debug\netcoreapp3.1\CondenseArray.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\obj\Debug\netcoreapp3.1\CondenseArray.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\obj\Debug\netcoreapp3.1\CondenseArray.dll
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\obj\Debug\netcoreapp3.1\CondenseArray.pdb
+C:\Users\Kaloyan\source\repos\Arrays\CondenseArray\obj\Debug\netcoreapp3.1\CondenseArray.genruntimeconfig.cache

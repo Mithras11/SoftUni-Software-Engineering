@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.exe
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.deps.json
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.dll
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\bin\Debug\netcoreapp3.1\FilterByAge.pdb
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.dll
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.pdb
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\FunctionalProgramming\FilterByAge\obj\Debug\netcoreapp3.1\FilterByAge.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\bin\Debug\netcoreapp3.1\VehicleCatalog2.exe
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\bin\Debug\netcoreapp3.1\VehicleCatalog2.deps.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\bin\Debug\netcoreapp3.1\VehicleCatalog2.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\bin\Debug\netcoreapp3.1\VehicleCatalog2.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\bin\Debug\netcoreapp3.1\VehicleCatalog2.dll
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\bin\Debug\netcoreapp3.1\VehicleCatalog2.pdb
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.dll
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.pdb
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\ClassesAndObjects\VehicleCatalog2\obj\Debug\netcoreapp3.1\VehicleCatalog2.csprojAssemblyReference.cache

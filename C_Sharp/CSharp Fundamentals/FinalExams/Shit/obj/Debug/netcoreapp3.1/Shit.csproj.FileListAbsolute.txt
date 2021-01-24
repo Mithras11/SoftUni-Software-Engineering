@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\obj\Debug\netcoreapp3.1\Shit.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\obj\Debug\netcoreapp3.1\Shit.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\obj\Debug\netcoreapp3.1\Shit.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\bin\Debug\netcoreapp3.1\Shit.exe
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\bin\Debug\netcoreapp3.1\Shit.deps.json
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\bin\Debug\netcoreapp3.1\Shit.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\bin\Debug\netcoreapp3.1\Shit.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\bin\Debug\netcoreapp3.1\Shit.dll
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\bin\Debug\netcoreapp3.1\Shit.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\obj\Debug\netcoreapp3.1\Shit.dll
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\obj\Debug\netcoreapp3.1\Shit.pdb
+C:\Users\Kaloyan\source\repos\FinalExams\Shit\obj\Debug\netcoreapp3.1\Shit.genruntimeconfig.cache

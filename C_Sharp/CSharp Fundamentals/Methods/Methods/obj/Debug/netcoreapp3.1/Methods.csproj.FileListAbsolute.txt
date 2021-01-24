@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\Kaloyan\source\repos\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\Kaloyan\source\repos\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Kaloyan\source\repos\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Kaloyan\source\repos\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

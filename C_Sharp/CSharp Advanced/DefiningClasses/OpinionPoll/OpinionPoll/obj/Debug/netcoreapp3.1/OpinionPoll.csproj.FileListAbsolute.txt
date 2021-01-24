@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\DefiningClasses\OpinionPoll\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.genruntimeconfig.cache

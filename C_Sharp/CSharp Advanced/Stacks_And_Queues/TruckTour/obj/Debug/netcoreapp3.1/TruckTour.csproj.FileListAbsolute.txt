@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.exe
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.deps.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.dll
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.pdb
+C:\Users\Kaloyan\source\repos\Stacks_And_Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.genruntimeconfig.cache

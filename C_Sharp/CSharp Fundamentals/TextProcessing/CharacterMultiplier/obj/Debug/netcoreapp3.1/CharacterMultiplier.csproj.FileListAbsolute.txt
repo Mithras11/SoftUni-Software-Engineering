@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.exe
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.deps.json
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\bin\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.dll
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.pdb
+C:\Users\Kaloyan\source\repos\TextProcessing\CharacterMultiplier\obj\Debug\netcoreapp3.1\CharacterMultiplier.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.exe
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.deps.json
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.dll
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.pdb
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.dll
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.pdb
+C:\Users\Kaloyan\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.genruntimeconfig.cache

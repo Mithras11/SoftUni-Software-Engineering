@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.exe
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.deps.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\bin\Debug\netcoreapp3.1\EvenTimes.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.dll
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.pdb
+C:\Users\Kaloyan\source\repos\C# Advanced\SetsAndDictionariesAdvanced\EvenTimes\obj\Debug\netcoreapp3.1\EvenTimes.genruntimeconfig.cache

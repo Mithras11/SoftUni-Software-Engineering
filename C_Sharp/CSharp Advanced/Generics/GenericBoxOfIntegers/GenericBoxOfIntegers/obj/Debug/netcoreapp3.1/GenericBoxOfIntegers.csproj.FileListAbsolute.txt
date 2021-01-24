@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\bin\Debug\netcoreapp3.1\GenericBoxOfIntegers.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericBoxOfIntegers\GenericBoxOfIntegers\obj\Debug\netcoreapp3.1\GenericBoxOfIntegers.genruntimeconfig.cache
