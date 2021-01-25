@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csprojAssemblyReference.cache

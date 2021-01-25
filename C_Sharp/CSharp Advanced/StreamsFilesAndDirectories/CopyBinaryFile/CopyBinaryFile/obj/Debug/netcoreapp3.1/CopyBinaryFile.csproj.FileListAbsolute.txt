@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\Kaloyan\source\repos\CopyBinaryFile\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache
