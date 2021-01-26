@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\bin\Debug\netcoreapp3.1\WordCountLab.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\bin\Debug\netcoreapp3.1\WordCountLab.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\bin\Debug\netcoreapp3.1\WordCountLab.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\bin\Debug\netcoreapp3.1\WordCountLab.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\bin\Debug\netcoreapp3.1\WordCountLab.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\bin\Debug\netcoreapp3.1\WordCountLab.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\WordCountLab\WordCountLab\obj\Debug\netcoreapp3.1\WordCountLab.genruntimeconfig.cache

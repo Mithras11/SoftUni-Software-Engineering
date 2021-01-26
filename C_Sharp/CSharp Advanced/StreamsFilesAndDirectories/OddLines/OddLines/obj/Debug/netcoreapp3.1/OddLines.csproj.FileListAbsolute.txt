@@ -1,0 +1,15 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\StreamsFilesAndDirectories\OddLines\OddLines\bin\Debug\netcoreapp3.1\output.txt
