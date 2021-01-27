@@ -9,43 +9,49 @@ namespace DirectoryTraversal
     {
         static void Main(string[] args)
         {
-            var dirInfo = new Dictionary<string, Dictionary<string, double>>();
 
             var directoryInfo = new DirectoryInfo("../../../");
 
             var allFiles = directoryInfo.GetFiles();
 
-            foreach (var currentFile in allFiles)
-            {
-                double size = (double)currentFile.Length / 1024;
-                string fileName = currentFile.Name;
-                string extension = currentFile.Extension;
 
-                if (!dirInfo.ContainsKey(extension))
+            var data = new Dictionary<string, Dictionary<string, double>>();
+
+            foreach (var file in allFiles)
+            {
+                double size = (double)file.Length / 1024;
+                string fileName = file.Name;
+                string extension = file.Extension;
+
+                if (!data.ContainsKey(extension))
                 {
-                    dirInfo.Add(extension, new Dictionary<string, double>());
+                    data.Add(extension, new Dictionary<string, double>());
                 }
 
-                if (!dirInfo[extension].ContainsKey(fileName))
+                if (!data[extension].ContainsKey(fileName))
                 {
-                    dirInfo[extension].Add(fileName, size);
+                    data[extension].Add(fileName, size);
                 }
             }
 
-            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"/report.txt";
-
-            var sortedDir = dirInfo
+            var sortedData = data
                 .OrderByDescending(x => x.Value.Count)
                 .ThenBy(x => x.Key)
                 .ToDictionary(k => k.Key, v => v.Value);
 
-            foreach (var kvp in sortedDir)
-            {
-                File.AppendAllText(path, kvp.Key + Environment.NewLine);
 
-                foreach (var file in kvp.Value.OrderBy(x => x.Value))
+
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"/report.txt";
+
+
+            foreach (var item in sortedData)
+            {
+                File.AppendAllText(path, $"{item.Key}\n");
+
+                foreach (var file in item.Value.OrderBy(x => x.Value))
                 {
-                    File.AppendAllText(path, $"-- {file.Key} - {Math.Round(file.Value, 3)}kb" + Environment.NewLine);
+                    File.AppendAllText(path, $"-- {file.Key} - {Math.Round(file.Value, 3)}kb\n");
+
                 }
             }
         }

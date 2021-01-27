@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\LineNumbers\\LineNumbers\\LineNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\LineNumbers\\LineNumbers\\LineNumbers.csproj",
       "projectName": "LineNumbers",
-      "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\LineNumbers\\LineNumbers\\LineNumbers.csproj",
+      "projectPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\LineNumbers\\LineNumbers\\LineNumbers.csproj",
       "packagesPath": "C:\\Users\\Kaloyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\LineNumbers\\LineNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\LineNumbers\\LineNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaloyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

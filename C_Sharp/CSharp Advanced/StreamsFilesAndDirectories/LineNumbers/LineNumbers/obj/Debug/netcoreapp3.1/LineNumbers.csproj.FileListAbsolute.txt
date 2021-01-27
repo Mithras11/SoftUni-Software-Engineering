@@ -1,13 +1,13 @@
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csprojAssemblyReference.cache
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
-C:\Users\Kaloyan\source\repos\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csprojAssemblyReference.cache
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Kaloyan\C_Sharp\CSharp Advanced\StreamsExrcisesDifferentVersion\LineNumbers\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\DirectoryTraversal\\DirectoryTraversal\\DirectoryTraversal.csproj",
+      "projectUniqueName": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\DirectoryTraversal\\DirectoryTraversal\\DirectoryTraversal.csproj",
       "projectName": "DirectoryTraversal",
-      "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\DirectoryTraversal\\DirectoryTraversal\\DirectoryTraversal.csproj",
+      "projectPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\DirectoryTraversal\\DirectoryTraversal\\DirectoryTraversal.csproj",
       "packagesPath": "C:\\Users\\Kaloyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\DirectoryTraversal\\DirectoryTraversal\\obj\\",
+      "outputPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\DirectoryTraversal\\DirectoryTraversal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaloyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

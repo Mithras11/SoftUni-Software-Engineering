@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
+
 
 namespace LineNumbers
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -17,8 +17,8 @@ namespace LineNumbers
             {
                 string line = lines[i];
 
-                int countOfLetters = CountOfLetters(line);
-                int countOfMarks = CountOfMarks(line);
+                int countOfLetters = CountLetters(line);
+                int countOfMarks = CountMarks(line);
 
                 result[i] = $"Line {i + 1}: {lines[i]}({countOfLetters})({countOfMarks})";
 
@@ -27,7 +27,7 @@ namespace LineNumbers
             File.WriteAllLines("../../../output.txt", result);
         }
 
-        static int CountOfLetters(string line)
+        static int CountLetters(string line)
         {
             int counter = 0;
 
@@ -44,7 +44,7 @@ namespace LineNumbers
             return counter;
         }
 
-        static int CountOfMarks(string line)
+        static int CountMarks(string line)
         {
             char[] marks = { '-', ',', '.', '!', '?', '\'' };
 

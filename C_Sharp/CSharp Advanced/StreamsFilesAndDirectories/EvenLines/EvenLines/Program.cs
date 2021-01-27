@@ -5,33 +5,34 @@ using System.Text.RegularExpressions;
 
 namespace EvenLines
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            using (StreamReader reader = new StreamReader("../../../text.txt"))
+            using StreamReader reader = new StreamReader(@"../../../text.txt");
+
+            int counter = 0;
+
+            string line = reader.ReadLine();
+
+            while (line != null)
             {
-                
-                    string line = reader.ReadLine();
-                    int counter = 0;
+                if (counter % 2 == 0)
+                {
 
-                    while (line != null)
-                    {
-                        if (counter % 2 == 0)
-                        {
-                            Regex pattern = new Regex("[-,.!?]");
-                            line = pattern.Replace(line, "@");
+                    line = Regex.Replace(line, "[-,.!?]", "@");
 
-                            var arr = line.Split().ToArray().Reverse();
+                    var arr = line.Split().ToArray().Reverse();
 
-                            Console.WriteLine(string.Join(' ', arr));
-                        }
-
-                        counter++;
-                        line = reader.ReadLine();
-                    
+                    Console.WriteLine(string.Join(' ', arr));
                 }
+
+                counter++;
+
+                line = reader.ReadLine();
+
             }
+
 
         }
     }

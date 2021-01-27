@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaloyan\\source\\repos\\EvenLines\\EvenLines\\EvenLines.csproj": {}
+    "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\EvenLines\\EvenLines\\EvenLines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaloyan\\source\\repos\\EvenLines\\EvenLines\\EvenLines.csproj": {
+    "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\EvenLines\\EvenLines\\EvenLines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\EvenLines\\EvenLines\\EvenLines.csproj",
+        "projectUniqueName": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\EvenLines\\EvenLines\\EvenLines.csproj",
         "projectName": "EvenLines",
-        "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\EvenLines\\EvenLines\\EvenLines.csproj",
+        "projectPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\EvenLines\\EvenLines\\EvenLines.csproj",
         "packagesPath": "C:\\Users\\Kaloyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\EvenLines\\EvenLines\\obj\\",
+        "outputPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\EvenLines\\EvenLines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaloyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

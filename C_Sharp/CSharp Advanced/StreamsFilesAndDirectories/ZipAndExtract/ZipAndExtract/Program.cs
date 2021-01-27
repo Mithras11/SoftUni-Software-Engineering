@@ -8,13 +8,18 @@ namespace _06ZipAndExtract
     {
         static void Main(string[] args)
         {
-            string zipFile = @"../../../result.zip";
             string picPath = @"../../../copyMe.png";
+            string zipFile = @"../../../result.zip";
+            string extractPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "ExtractedZip");
 
             using (var archive = ZipFile.Open(zipFile, ZipArchiveMode.Create))
             {
-                archive.CreateEntryFromFile(picPath, Path.GetFileName(picPath));
+                archive.CreateEntryFromFile(picPath, "copyMe.png");
             }
+
+
+            ZipFile.ExtractToDirectory(zipFile, extractPath);
+
         }
     }
 }

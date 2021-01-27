@@ -3,32 +3,34 @@ using System.IO;
 
 namespace CopyBinaryFile
 {
-    class Program
+    public class Program
     {
         static void Main()
         {
-            Copy("../../../2021.jpg", "../../../copied.jpg");
-        }
 
-        public static void Copy(string inputFilePath, string outputFilePath)
-        {
-            int bufferSize = 1024 * 1024;
+            using FileStream streamReader = new FileStream(@"../../../2021.jpg", FileMode.Open);
 
-            using (FileStream fileStream = new FileStream(outputFilePath, FileMode.OpenOrCreate, FileAccess.Write, FileShare.ReadWrite))
+            using FileStream streamWriter = new FileStream(@"../../../copied.jpg", FileMode.OpenOrCreate);
+
+
+            byte[] buffer = new byte[1024 * 1024];
+
+
+            while (true)
             {
-                FileStream fs = new FileStream(inputFilePath, FileMode.Open, FileAccess.ReadWrite);
+                int bytesRead = streamReader.Read(buffer, 0, buffer.Length);
 
-                fileStream.SetLength(fs.Length);
-
-                int bytesRead = -1;
-
-                byte[] bytes = new byte[bufferSize];
-
-                while ((bytesRead = fs.Read(bytes, 0, bufferSize)) > 0)
+                if (bytesRead == 0)
                 {
-                    fileStream.Write(bytes, 0, bytesRead);
+                    break;
                 }
+
+                streamWriter.Write(buffer, 0, bytesRead);
+
+
             }
+
+
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaloyan\\source\\repos\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj": {}
+    "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaloyan\\source\\repos\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj": {
+    "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj",
+        "projectUniqueName": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj",
         "projectName": "ZipAndExtract",
-        "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj",
+        "projectPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\ZipAndExtract\\ZipAndExtract\\ZipAndExtract.csproj",
         "packagesPath": "C:\\Users\\Kaloyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\ZipAndExtract\\ZipAndExtract\\obj\\",
+        "outputPath": "C:\\Users\\Kaloyan\\C_Sharp\\CSharp Advanced\\StreamsExrcisesDifferentVersion\\ZipAndExtract\\ZipAndExtract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaloyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
