@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\GenericSwapMethodInteger.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericSwapMethodInteger\GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\GenericSwapMethodInteger.genruntimeconfig.cache
