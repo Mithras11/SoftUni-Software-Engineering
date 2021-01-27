@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\Generics\GenericCountMethodDouble\GenericCountMethodDouble\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.genruntimeconfig.cache
