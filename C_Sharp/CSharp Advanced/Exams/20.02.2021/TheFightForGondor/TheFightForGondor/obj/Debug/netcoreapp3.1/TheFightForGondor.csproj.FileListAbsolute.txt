@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.exe
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.deps.json
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.dll
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.pdb
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.dll
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.pdb
+C:\Users\Kaloyan\source\repos\TheFightForGondor\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.genruntimeconfig.cache

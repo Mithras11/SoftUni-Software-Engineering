@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.exe
+C:\Users\Kaloyan\source\repos\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.deps.json
+C:\Users\Kaloyan\source\repos\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.dll
+C:\Users\Kaloyan\source\repos\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.dll
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\Kaloyan\source\repos\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.genruntimeconfig.cache
