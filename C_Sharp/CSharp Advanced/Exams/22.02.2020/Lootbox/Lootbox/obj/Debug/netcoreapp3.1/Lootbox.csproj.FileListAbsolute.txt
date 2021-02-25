@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\Kaloyan\source\repos\Lootbox\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.exe
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.deps.json
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.dll
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.pdb
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.dll
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.pdb
+C:\Users\Kaloyan\source\repos\CupsAndBottles\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.genruntimeconfig.cache

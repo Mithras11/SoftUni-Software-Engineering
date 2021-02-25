@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\bin\Debug\netcoreapp3.1\VLogger.exe
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\bin\Debug\netcoreapp3.1\VLogger.deps.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\bin\Debug\netcoreapp3.1\VLogger.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\bin\Debug\netcoreapp3.1\VLogger.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\bin\Debug\netcoreapp3.1\VLogger.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\bin\Debug\netcoreapp3.1\VLogger.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.dll
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.pdb
+C:\Users\Kaloyan\source\repos\CSharpAdvanced\SetsAndDictionariesAdvanced\VLogger\VLogger\obj\Debug\netcoreapp3.1\VLogger.genruntimeconfig.cache
