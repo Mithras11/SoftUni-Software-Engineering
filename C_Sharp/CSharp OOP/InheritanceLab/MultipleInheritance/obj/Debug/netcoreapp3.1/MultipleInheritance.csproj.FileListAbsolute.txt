@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.exe
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\bin\Debug\netcoreapp3.1\MultipleInheritance.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\MultipleInheritance\obj\Debug\netcoreapp3.1\MultipleInheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.exe
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.genruntimeconfig.cache

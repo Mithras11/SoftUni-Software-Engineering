@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\bin\Debug\netcoreapp3.1\RandomList.exe
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\bin\Debug\netcoreapp3.1\RandomList.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\bin\Debug\netcoreapp3.1\RandomList.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\bin\Debug\netcoreapp3.1\RandomList.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\InheritanceLab\RandomList\obj\Debug\netcoreapp3.1\RandomList.genruntimeconfig.cache
