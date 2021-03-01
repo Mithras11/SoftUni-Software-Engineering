@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.exe
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.deps.json
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.dll
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.pdb
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.dll
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.pdb
+C:\Users\Kaloyan\source\repos\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.genruntimeconfig.cache
