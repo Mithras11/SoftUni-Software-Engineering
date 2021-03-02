@@ -7,6 +7,7 @@ namespace PizzaCalories
     public class Topping
     {
         //fields
+        
         private string type;
         private double wight;
 

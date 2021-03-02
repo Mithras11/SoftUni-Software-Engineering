@@ -19,7 +19,7 @@ namespace PizzaCalories
 
             this.Name = name;
             this.Toppings = new List<Topping>();
-            this.Dough = new Dough();
+           // this.Dough = new Dough();  
         }
 
 
@@ -74,7 +74,7 @@ namespace PizzaCalories
             private set
             {
 
-                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length > 15)
+                if ( string.IsNullOrWhiteSpace(value) || value.Length > 15)
                 {
                     throw new ArgumentException("Pizza name should be between 1 and 15 symbols.");
                 }
@@ -90,7 +90,7 @@ namespace PizzaCalories
         {
             if (this.Toppings.Count == 10)
             {
-                throw new Exception("Number of toppings should be in range[0..10].");
+                throw new Exception("Number of toppings should be in range [0..10].");
             }
 
             this.Toppings.Add(topping);
@@ -100,7 +100,7 @@ namespace PizzaCalories
 
         public void PrintCalories()
         {
-            Console.WriteLine($"{this.Name} - {this.Totalcalories:F2}");
+            Console.WriteLine($"{this.Name} - {this.Totalcalories:F2} Calories.");
         }
 
     }

@@ -81,7 +81,7 @@ namespace PizzaCalories
             {
                 if (value < 1 || value > 200)
                 {
-                    throw new ArgumentException("Dough weight should be in the range[1..200].");
+                    throw new ArgumentException("Dough weight should be in the range [1..200].");
                 }
                 weight = value;
             }
