@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Kaloyan\source\repos\InterefacesAndAbstractionsEx\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
