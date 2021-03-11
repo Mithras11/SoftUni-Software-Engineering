@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -5,4 +6,13 @@
       "C:\\Users\\Kaloyan\\.nuget\\packages"
     ]
   }
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kaloyan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kaloyan\\.nuget\\packages"
+    ]
+  }
+>>>>>>> c25693585f09720b9c59fe3f2bd3001f3feeec59
 }

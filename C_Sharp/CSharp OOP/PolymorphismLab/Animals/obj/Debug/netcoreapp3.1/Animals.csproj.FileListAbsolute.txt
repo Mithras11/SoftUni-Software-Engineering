@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.exe
 C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
 C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Anima
 C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.dll
 C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
 C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
+=======
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Kaloyan\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
+>>>>>>> c25693585f09720b9c59fe3f2bd3001f3feeec59
