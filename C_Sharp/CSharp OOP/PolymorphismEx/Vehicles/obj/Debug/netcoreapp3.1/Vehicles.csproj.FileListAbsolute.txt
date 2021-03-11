@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Kaloyan\source\repos\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
