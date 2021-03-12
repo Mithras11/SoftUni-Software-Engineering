@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.exe
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.deps.json
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.dll
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\bin\Debug\netcoreapp3.1\MissionPrivateImpossible.pdb
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.dll
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.pdb
+C:\Users\Kaloyan\source\repos\Reflection\MissionPrivateImpossible\obj\Debug\netcoreapp3.1\MissionPrivateImpossible.genruntimeconfig.cache
