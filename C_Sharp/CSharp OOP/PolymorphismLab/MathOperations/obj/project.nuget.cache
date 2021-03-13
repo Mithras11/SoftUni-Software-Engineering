@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "HrasQgimO4SslGKBNXH0cp3irikU8iDTKAIjJoBYYIK1ViH7d8Pw+cCj6sLTaUq3SkNQObB/LkqDtaj7QhwFHQ==",
@@ -6,13 +5,4 @@
   "projectFilePath": "C:\\Users\\Kaloyan\\source\\repos\\Polymorphism\\MathOperations\\MathOperations.csproj",
   "expectedPackageFiles": [],
   "logs": []
-=======
-{
-  "version": 2,
-  "dgSpecHash": "HrasQgimO4SslGKBNXH0cp3irikU8iDTKAIjJoBYYIK1ViH7d8Pw+cCj6sLTaUq3SkNQObB/LkqDtaj7QhwFHQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Kaloyan\\source\\repos\\Polymorphism\\MathOperations\\MathOperations.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
->>>>>>> c25693585f09720b9c59fe3f2bd3001f3feeec59
 }

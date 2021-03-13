@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
 C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
 C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
@@ -12,18 +11,3 @@ C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.
 C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
 C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
 C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache
-=======
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csprojAssemblyReference.cache
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
-C:\Users\Kaloyan\source\repos\Polymorphism\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache
->>>>>>> c25693585f09720b9c59fe3f2bd3001f3feeec59
