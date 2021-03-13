@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.exe
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.deps.json
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.dll
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\bin\Debug\netcoreapp3.1\HighQualityMistakes.pdb
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.dll
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.pdb
+C:\Users\Kaloyan\source\repos\Reflection\HighQualityMistakes\obj\Debug\netcoreapp3.1\HighQualityMistakes.genruntimeconfig.cache

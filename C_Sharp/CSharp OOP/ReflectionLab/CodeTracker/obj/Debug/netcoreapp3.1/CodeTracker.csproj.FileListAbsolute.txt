@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.exe
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.deps.json
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.dll
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\bin\Debug\netcoreapp3.1\CodeTracker.pdb
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.dll
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.pdb
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\Reflection\CodeTracker\obj\Debug\netcoreapp3.1\CodeTracker.csprojAssemblyReference.cache

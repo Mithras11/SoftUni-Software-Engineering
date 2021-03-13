@@ -1,0 +1,12 @@
+C:\Users\Kaloyan\source\repos\Reflection\Collector\bin\Debug\netcoreapp3.1\Collector.exe
+C:\Users\Kaloyan\source\repos\Reflection\Collector\bin\Debug\netcoreapp3.1\Collector.deps.json
+C:\Users\Kaloyan\source\repos\Reflection\Collector\bin\Debug\netcoreapp3.1\Collector.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\Reflection\Collector\bin\Debug\netcoreapp3.1\Collector.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\Reflection\Collector\bin\Debug\netcoreapp3.1\Collector.dll
+C:\Users\Kaloyan\source\repos\Reflection\Collector\bin\Debug\netcoreapp3.1\Collector.pdb
+C:\Users\Kaloyan\source\repos\Reflection\Collector\obj\Debug\netcoreapp3.1\Collector.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\Collector\obj\Debug\netcoreapp3.1\Collector.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\Reflection\Collector\obj\Debug\netcoreapp3.1\Collector.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\Reflection\Collector\obj\Debug\netcoreapp3.1\Collector.dll
+C:\Users\Kaloyan\source\repos\Reflection\Collector\obj\Debug\netcoreapp3.1\Collector.pdb
+C:\Users\Kaloyan\source\repos\Reflection\Collector\obj\Debug\netcoreapp3.1\Collector.genruntimeconfig.cache
