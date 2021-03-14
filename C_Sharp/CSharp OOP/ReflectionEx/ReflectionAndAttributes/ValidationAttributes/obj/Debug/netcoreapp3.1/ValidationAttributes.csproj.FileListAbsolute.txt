@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\ReflectionEx\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
