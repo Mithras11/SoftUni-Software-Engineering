@@ -1,0 +1,9 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
