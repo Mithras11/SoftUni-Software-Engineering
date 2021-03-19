@@ -93,3 +93,5 @@ C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager.Tests\obj\Debu
 C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
 C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
 C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb

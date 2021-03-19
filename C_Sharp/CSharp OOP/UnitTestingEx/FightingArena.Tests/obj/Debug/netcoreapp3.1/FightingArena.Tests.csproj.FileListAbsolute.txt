@@ -93,3 +93,5 @@ C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\FightingArena.Tests\obj\D
 C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.dll
 C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.pdb
 C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\FightingArena.Tests\obj\Debug\netcoreapp3.1\FightingArena.Tests.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\FightingArena.Tests\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\FightingArena.Tests\bin\Debug\netcoreapp3.1\FightingArena.pdb

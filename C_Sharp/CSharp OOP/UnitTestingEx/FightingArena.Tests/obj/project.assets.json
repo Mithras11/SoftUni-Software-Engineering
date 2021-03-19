@@ -1957,6 +1957,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "FightingArena/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/FightingArena.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FightingArena.dll": {}
+        }
       }
     }
   },
@@ -6505,10 +6515,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "FightingArena/1.0.0": {
+      "type": "project",
+      "path": "../FightingArena/FightingArena.csproj",
+      "msbuildProject": "../FightingArena/FightingArena.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "FightingArena >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "NUnit3TestAdapter >= 3.9.0",
       "nunit >= 3.9.0"
@@ -6540,7 +6556,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\UnitTestingEx\\FightingArena\\FightingArena.csproj": {
+              "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\UnitTestingEx\\FightingArena\\FightingArena.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

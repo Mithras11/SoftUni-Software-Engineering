@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "CarManager.Tests/1.0.0": {
         "dependencies": {
+          "CarManager": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "NUnit3TestAdapter": "3.9.0",
           "NUnit": "3.9.0"
@@ -1350,6 +1351,11 @@
             "fileVersion": "4.6.24705.1"
           }
         }
+      },
+      "CarManager/1.0.0": {
+        "runtime": {
+          "CarManager.dll": {}
+        }
       }
     }
   },
@@ -2023,6 +2029,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "CarManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

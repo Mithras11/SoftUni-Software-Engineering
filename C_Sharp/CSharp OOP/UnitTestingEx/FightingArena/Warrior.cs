@@ -72,17 +72,17 @@ namespace FightingArena
         {
             if (this.HP <= MIN_ATTACK_HP)
             {
-                throw new InvalidOperationException("Your HP is too low in order to attack other warriors!");
+                throw new InvalidOperationException("Your HP is too low in order to attack other warriors!");//
             }
 
             if (warrior.HP <= MIN_ATTACK_HP)
             {
-                throw new InvalidOperationException($"Enemy HP must be greater than {MIN_ATTACK_HP} in order to attack him!");
+                throw new InvalidOperationException($"Enemy HP must be greater than {MIN_ATTACK_HP} in order to attack him!");//
             }
 
             if (this.HP < warrior.Damage)
             {
-                throw new InvalidOperationException($"You are trying to attack too strong enemy");
+                throw new InvalidOperationException($"You are trying to attack too strong enemy");//
             }
 
             this.HP -= warrior.Damage;
