@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P01.Stream_Progress/1.0.0": {
+        "runtime": {
+          "P01.Stream_Progress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P01.Stream_Progress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
