@@ -1225,16 +1225,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
-      },
-      "BankSafe/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/BankSafe.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BankSafe.dll": {}
-        }
       }
     }
   },
@@ -2088,11 +2078,12 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "NoPBj0ykejqAWW4p4gGtrrL+3c84ZLSvGnHgq422ew1Rj4WKj1FA8/BCybqC111EtgcqUl6ZJNFYYS22HLgbjA==",
+      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4586,43 +4577,30 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
-    },
-    "BankSafe/1.0.0": {
-      "type": "project",
-      "path": "../BankSafe/BankSafe.csproj",
-      "msbuildProject": "../BankSafe/BankSafe.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BankSafe >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
       "nunit >= 3.12.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariela\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Kaloyan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe.Tests\\BankSafe.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\12.12.2020\\BankSafe\\BankSafe.Tests\\BankSafe.Tests.csproj",
       "projectName": "BankSafe.Tests",
-      "projectPath": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe.Tests\\BankSafe.Tests.csproj",
-      "packagesPath": "C:\\Users\\Mariela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\12.12.2020\\BankSafe\\BankSafe.Tests\\BankSafe.Tests.csproj",
+      "packagesPath": "C:\\Users\\Kaloyan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\12.12.2020\\BankSafe\\BankSafe.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mariela\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Kaloyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -4633,11 +4611,8 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe\\BankSafe.csproj": {
-              "projectPath": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe\\BankSafe.csproj"
-            }
-          }
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4648,6 +4623,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4677,7 +4653,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
