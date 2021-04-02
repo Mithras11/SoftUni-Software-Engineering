@@ -1,0 +1,12 @@
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.exe
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.deps.json
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.runtimeconfig.json
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.dll
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\bin\Debug\netcoreapp3.1\BankSafe.pdb
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.dll
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.pdb
+C:\Users\Mariela\source\repos\BankSafe\BankSafe\obj\Debug\netcoreapp3.1\BankSafe.genruntimeconfig.cache
