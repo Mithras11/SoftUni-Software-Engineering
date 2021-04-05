@@ -1,0 +1,9 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\22.08.2020\UnitTests\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
