@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\16.08.2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache
