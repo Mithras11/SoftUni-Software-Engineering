@@ -104,7 +104,9 @@ namespace OnlineShop.Models.Products.Computers
             var sb = new StringBuilder();
 
             sb.AppendLine(base.ToString());
-            sb.AppendLine(string.Format(SuccessMessages.ComputerComponentsToString, this.Components.Count));
+            //sb.AppendLine(string.Format(SuccessMessages.ComputerComponentsToString, this.Components.Count));
+            sb.AppendLine($" Components ({this.components.Count}):");
+
 
             foreach (var item in this.Components)
             {
@@ -118,7 +120,8 @@ namespace OnlineShop.Models.Products.Computers
                 averageOverallPerformanceOfPeripherals = this.Peripherals.Average(x => x.OverallPerformance);
             }
 
-            sb.AppendLine(string.Format(SuccessMessages.ComputerPeripheralsToString, this.Peripherals.Count, averageOverallPerformanceOfPeripherals));
+            //sb.AppendLine(string.Format(SuccessMessages.ComputerPeripheralsToString, this.Peripherals.Count, averageOverallPerformanceOfPeripherals));
+            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({averageOverallPerformanceOfPeripherals:F2}):");
 
             foreach (var item in this.Peripherals)
             {

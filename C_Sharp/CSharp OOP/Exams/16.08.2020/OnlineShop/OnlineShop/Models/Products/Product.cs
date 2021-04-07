@@ -94,9 +94,8 @@ namespace OnlineShop.Models.Products
 
         public override string ToString()
         {
-            return string.Format(SuccessMessages.ProductToString,
-                this.OverallPerformance, this.Price, this.GetType().Name, this.Manufacturer, this.Model, this.Id);
+             return $"Overall Performance: {this.OverallPerformance:F2}. Price: {this.Price:F2} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id})";
         }
 
-    }
+        }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj": {}
+    "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop\\OnlineShop\\OnlineShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj": {
+    "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop\\OnlineShop\\OnlineShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj",
+        "projectUniqueName": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
         "projectName": "OnlineShop",
-        "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj",
+        "projectPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
         "packagesPath": "C:\\Users\\Kaloyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop-Skeleton\\OnlineShop\\obj\\",
+        "outputPath": "C:\\Users\\Kaloyan\\source\\repos\\CSharp OOP\\Exams\\16.08.2020\\OnlineShop\\OnlineShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaloyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
