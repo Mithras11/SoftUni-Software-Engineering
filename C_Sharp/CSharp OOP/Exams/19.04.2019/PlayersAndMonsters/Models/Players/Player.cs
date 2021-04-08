@@ -1,4 +1,5 @@
-﻿using PlayersAndMonsters.Models.Players.Contracts;
+﻿using PlayersAndMonsters.Common;
+using PlayersAndMonsters.Models.Players.Contracts;
 using PlayersAndMonsters.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ namespace PlayersAndMonsters.Models.Players
         private string username;
         private int health;
         private ICardRepository cardRepository;
+        private IFormatProvider constantMessages;
 
         public Player(ICardRepository cardRepository, string username, int health)
         {
@@ -70,6 +72,12 @@ namespace PlayersAndMonsters.Models.Players
 
             }
 
+        }
+
+
+        public override string ToString()
+        {
+            return string.Format(ConstantMessages.PlayerReportInfo, this.Username, this.Health, this.CardRepository.Count);
         }
     }
 }

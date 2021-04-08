@@ -1,4 +1,5 @@
-﻿using PlayersAndMonsters.Models.Cards.Contracts;
+﻿using PlayersAndMonsters.Common;
+using PlayersAndMonsters.Models.Cards.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -62,6 +63,12 @@ namespace PlayersAndMonsters.Models.Cards
 
                 this.healthPoints = value;
             }
+        }
+
+
+        public override string ToString()
+        {
+            return string.Format(ConstantMessages.CardReportInfo, this.Name, this.DamagePoints);
         }
     }
 }
