@@ -1,0 +1,21 @@
+Successfully added Colt of type: Pistol
+Successfully added ColtPython of type: Pistol
+Successfully added SniperRifle of type: Rifle
+Successfully added PSGSniper of type: Rifle
+Invalid gun type!
+Successfully added civil player: Alfie!
+Successfully added civil player: Alexis!
+Successfully added civil player: Bean!
+Successfully added civil player: Beck!
+Successfully added civil player: Camber!
+Successfully added civil player: Burney!
+Successfully added Colt to the Civil Player: Bean
+Successfully added ColtPython to the Main Player: Tommy Vercetti
+Successfully added SniperRifle to the Civil Player: Alfie
+Civil player with that name doesn't exists!
+Successfully added PSGSniper to the Civil Player: Alfie
+There are no guns in the queue!
+A fight happened:
+Tommy live points: 0!
+Tommy has killed: 2 players!
+Left Civil Players: 4!

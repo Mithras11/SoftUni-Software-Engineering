@@ -1,0 +1,23 @@
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.genruntimeconfig.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\11.08.2019\ViceCity\ViceCity\bin\Debug\netcoreapp2.1\ViceCity.pdb
