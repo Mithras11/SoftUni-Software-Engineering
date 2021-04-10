@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Kaloyan\source\repos\CSharp OOP\Exams\15.12.2019\Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
