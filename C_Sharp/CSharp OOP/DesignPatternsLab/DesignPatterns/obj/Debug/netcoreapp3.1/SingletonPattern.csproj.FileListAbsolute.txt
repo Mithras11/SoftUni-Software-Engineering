@@ -1,0 +1,13 @@
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\SingletonPattern.exe
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\SingletonPattern.deps.json
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.json
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.dev.json
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfo.cs
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Users\Kaloyan\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\SingletonPattern.genruntimeconfig.cache
