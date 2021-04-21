@@ -50,3 +50,25 @@ const orders = [
 ];
 const products = factory(library, orders);
 console.log(products);
+
+///--------//
+
+function factory(library, orders) {
+    return orders
+        .map(order => Object.assign({},
+            order.template,
+            order.parts.reduce(
+                (acc, val) => Object.assign
+                    (acc, { [val]: library[val] }), {})));
+
+}
+
+//-----//
+(library, orders) =>
+    orders
+        .map(order => Object.assign({},
+            order.template,
+            order.parts.reduce(
+                (acc, val) => Object.assign
+                    (acc, { [val]: library[val] }), {})))
+ 
