@@ -1,9 +1,0 @@
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\bin\Debug\netcoreapp3.1\Database.deps.json
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\bin\Debug\netcoreapp3.1\Database.dll
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\bin\Debug\netcoreapp3.1\Database.pdb
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\obj\Debug\netcoreapp3.1\Database.dll
-C:\Users\Kaloyan\source\repos\CSharp OOP\UnitTestingEx\Database\obj\Debug\netcoreapp3.1\Database.pdb

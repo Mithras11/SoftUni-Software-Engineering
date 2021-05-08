@@ -1,4 +1,0 @@
-C:\Users\Kaloyan\source\repos\Arrays\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
-C:\Users\Kaloyan\source\repos\Arrays\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
-C:\Users\Kaloyan\source\repos\Arrays\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
-C:\Users\Kaloyan\source\repos\Arrays\Sum\obj\Debug\netcoreapp3.1\Sum.csprojAssemblyReference.cache
