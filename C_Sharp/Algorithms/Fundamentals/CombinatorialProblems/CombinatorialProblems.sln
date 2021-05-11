@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithoutRepetitions", "PermutationsWithoutRepetitions\PermutationsWithoutRepetitions.csproj", "{92459B34-8477-4428-9F01-A5E53630183A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithoutRepetitions-Swap", "PermutationsWithoutRepetitions-Swap\PermutationsWithoutRepetitions-Swap.csproj", "{1ACEE4BD-AA6E-428F-9B7C-E1F4ADF4C57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithRepetitions-Swap", "PermutationsWithRepetitions\PermutationsWithRepetitions-Swap.csproj", "{F6CAA9FE-A16A-4C00-B6A8-1D981373FEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92459B34-8477-4428-9F01-A5E53630183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92459B34-8477-4428-9F01-A5E53630183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92459B34-8477-4428-9F01-A5E53630183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92459B34-8477-4428-9F01-A5E53630183A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACEE4BD-AA6E-428F-9B7C-E1F4ADF4C57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACEE4BD-AA6E-428F-9B7C-E1F4ADF4C57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACEE4BD-AA6E-428F-9B7C-E1F4ADF4C57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACEE4BD-AA6E-428F-9B7C-E1F4ADF4C57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CAA9FE-A16A-4C00-B6A8-1D981373FEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CAA9FE-A16A-4C00-B6A8-1D981373FEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CAA9FE-A16A-4C00-B6A8-1D981373FEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CAA9FE-A16A-4C00-B6A8-1D981373FEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27CCA238-E561-4980-AFD3-86B019E8CE6B}
+	EndGlobalSection
+EndGlobal
