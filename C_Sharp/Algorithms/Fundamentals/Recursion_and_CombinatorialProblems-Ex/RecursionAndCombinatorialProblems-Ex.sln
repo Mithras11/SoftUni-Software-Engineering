@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{D9198462-1C8A-41C3-AF95-3D2180016B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{D9198462-1C8A-41C3-AF95-3D2180016B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{B86012AC-9D9E-49A0-9C54-30214B5124F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{B86012AC-9D9E-49A0-9C54-30214B5124F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetition", "CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{FF295364-3193-4226-A2FE-8CEDEC4577C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithRepetition", "CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{FF295364-3193-4226-A2FE-8CEDEC4577C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{51C03DBF-127D-45FB-B885-A5B925D2E512}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithoutRepetition", "CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{51C03DBF-127D-45FB-B885-A5B925D2E512}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectedAreasInMatrix", "ConnectedAreasInMatrix\ConnectedAreasInMatrix.csproj", "{0DAA5B06-87C1-4A73-85CA-7B73A441CB5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csproj", "{6AAFB726-42FA-4215-BA34-016657AC8A4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{1E4068D4-53F5-48CB-9D34-DB5B9189B3D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchooTeams", "SchooTeams\SchooTeams.csproj", "{72ECC164-C6B6-4D99-B9AE-467F8E339241}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{51C03DBF-127D-45FB-B885-A5B925D2E512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51C03DBF-127D-45FB-B885-A5B925D2E512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51C03DBF-127D-45FB-B885-A5B925D2E512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAA5B06-87C1-4A73-85CA-7B73A441CB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAA5B06-87C1-4A73-85CA-7B73A441CB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAA5B06-87C1-4A73-85CA-7B73A441CB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAA5B06-87C1-4A73-85CA-7B73A441CB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAFB726-42FA-4215-BA34-016657AC8A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAFB726-42FA-4215-BA34-016657AC8A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAFB726-42FA-4215-BA34-016657AC8A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAFB726-42FA-4215-BA34-016657AC8A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4068D4-53F5-48CB-9D34-DB5B9189B3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4068D4-53F5-48CB-9D34-DB5B9189B3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4068D4-53F5-48CB-9D34-DB5B9189B3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4068D4-53F5-48CB-9D34-DB5B9189B3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72ECC164-C6B6-4D99-B9AE-467F8E339241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ECC164-C6B6-4D99-B9AE-467F8E339241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ECC164-C6B6-4D99-B9AE-467F8E339241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ECC164-C6B6-4D99-B9AE-467F8E339241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

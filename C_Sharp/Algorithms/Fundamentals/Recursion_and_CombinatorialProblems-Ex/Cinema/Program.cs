@@ -1,16 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace Cinema
 {
     class Program
     {
+        static List<string> names;
+        static string[] cinema;
+
         static void Main(string[] args)
         {
-            var names = Console.ReadLine().Split(", ").ToList();
+            names = Console.ReadLine().Split(", ").ToList();
             var size = names.Count;
-            var cinema = new string[size];
+
+            cinema = new string[size];
 
             var input = string.Empty;
 
@@ -34,47 +39,64 @@ namespace Cinema
             }
 
 
-            GenerateCombinations(names, cinema, 0, 0);
+            Permute(0);
 
         }
 
-        private static void GenerateCombinations(List<string> names, string[] cinema, int index, int border)
+        private static void Permute(int index)
         {
-           
-
-            for (int i = border; i < names.Count; i++)
+            if (index == names.Count)
             {
-                
+                Print();
 
-                if (cinema[index]!=null)
+            }
+            else
+            {
+                Permute(index + 1);
+
+                for (int i = index + 1; i < names.Count; i++)
                 {
-                   index++;
-                   
+                    Swap(index, i);
+                    Permute(index + 1);
+                    Swap(index, i);
                 }
-
-                if (index == cinema.Length)
-                {
-                    Print(cinema);
-
-                }
-
-                cinema[index] = names[i];
-
-                GenerateCombinations(names, cinema, index + 1, border + 1);
-
-                
-
-                border++;
-                
             }
 
-
-
         }
 
-        private static void Print(string[] cinema)
+        private static void Swap(int index, int i)
         {
-            Console.WriteLine(string.Join(' ', cinema));
+            var temp = names[index];
+            names[index] = names[i];
+            names[i] = temp;
+        }
+
+
+
+        private static void Print()
+        {
+            var sb = new StringBuilder();
+            int index = 0;
+
+            for (int i = 0; i < cinema.Length; i++)
+            {
+                if (cinema[i] == null)
+                {
+                    sb.Append(names[index]);
+                    index++;
+                }
+                else
+                {
+                    sb.Append(cinema[i]);
+                }
+
+                sb.Append(' ');
+
+            }
+
+            var result = sb.ToString().TrimEnd();
+
+            Console.WriteLine(result);
         }
     }
 }
