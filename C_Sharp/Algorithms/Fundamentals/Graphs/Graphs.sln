@@ -3,11 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{BA28F489-0090-4393-B02F-304DE94F7352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFS", "DFS\DFS.csproj", "{BA28F489-0090-4393-B02F-304DE94F7352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{AA42E225-6373-4DD7-896B-8B2A8DA5B0C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFS", "BFS\BFS.csproj", "{AA42E225-6373-4DD7-896B-8B2A8DA5B0C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS-iterative", "DFS-iterative\DFS-iterative.csproj", "{5A369169-AB65-42DB-BDD7-715CE94BD203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFS-iterative", "DFS-iterative\DFS-iterative.csproj", "{5A369169-AB65-42DB-BDD7-715CE94BD203}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectedComponents", "ConnectedComponents\ConnectedComponents.csproj", "{3954AB9D-8117-42AD-A3BB-7BCF9CA87796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceRemoval", "SourceRemoval\SourceRemoval.csproj", "{0BD98DCA-4B92-48EC-B504-FDEE191B4BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSorting", "TopologicalSorting\TopologicalSorting.csproj", "{6A334A4F-E366-4489-BC6F-9426F6C40039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPath", "ShortestPath\ShortestPath.csproj", "{276794F3-CF07-4433-80C2-CF828FCC98C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{5A369169-AB65-42DB-BDD7-715CE94BD203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A369169-AB65-42DB-BDD7-715CE94BD203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A369169-AB65-42DB-BDD7-715CE94BD203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3954AB9D-8117-42AD-A3BB-7BCF9CA87796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954AB9D-8117-42AD-A3BB-7BCF9CA87796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954AB9D-8117-42AD-A3BB-7BCF9CA87796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954AB9D-8117-42AD-A3BB-7BCF9CA87796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD98DCA-4B92-48EC-B504-FDEE191B4BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD98DCA-4B92-48EC-B504-FDEE191B4BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD98DCA-4B92-48EC-B504-FDEE191B4BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD98DCA-4B92-48EC-B504-FDEE191B4BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A334A4F-E366-4489-BC6F-9426F6C40039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A334A4F-E366-4489-BC6F-9426F6C40039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A334A4F-E366-4489-BC6F-9426F6C40039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A334A4F-E366-4489-BC6F-9426F6C40039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276794F3-CF07-4433-80C2-CF828FCC98C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276794F3-CF07-4433-80C2-CF828FCC98C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276794F3-CF07-4433-80C2-CF828FCC98C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276794F3-CF07-4433-80C2-CF828FCC98C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
