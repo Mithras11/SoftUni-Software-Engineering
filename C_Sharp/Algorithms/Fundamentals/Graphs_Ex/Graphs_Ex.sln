@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistanceBetweenVertices", "DistanceBetweenVertices\DistanceBetweenVertices.csproj", "{47FC0CE9-9DC6-4D70-BC02-98686C1F3AF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasInMatrix", "AreasInMatrix\AreasInMatrix.csproj", "{0E357BC6-D8AD-4699-BF0D-B4F63B370578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreasInMatrix", "AreasInMatrix\AreasInMatrix.csproj", "{0E357BC6-D8AD-4699-BF0D-B4F63B370578}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclesInGraph", "CyclesInGraph\CyclesInGraph.csproj", "{1661CFB0-B015-4628-B922-38AA935EF38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{3D4C89DD-475E-487A-8863-FAC6FAEA2AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakCycles", "BreakCycles\BreakCycles.csproj", "{B5279112-A4C2-4AA8-984B-A98CA041BFCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{0E357BC6-D8AD-4699-BF0D-B4F63B370578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E357BC6-D8AD-4699-BF0D-B4F63B370578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E357BC6-D8AD-4699-BF0D-B4F63B370578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1661CFB0-B015-4628-B922-38AA935EF38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1661CFB0-B015-4628-B922-38AA935EF38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1661CFB0-B015-4628-B922-38AA935EF38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1661CFB0-B015-4628-B922-38AA935EF38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4C89DD-475E-487A-8863-FAC6FAEA2AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4C89DD-475E-487A-8863-FAC6FAEA2AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4C89DD-475E-487A-8863-FAC6FAEA2AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4C89DD-475E-487A-8863-FAC6FAEA2AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5279112-A4C2-4AA8-984B-A98CA041BFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5279112-A4C2-4AA8-984B-A98CA041BFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5279112-A4C2-4AA8-984B-A98CA041BFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5279112-A4C2-4AA8-984B-A98CA041BFCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
