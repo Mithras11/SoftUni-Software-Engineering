@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci-withMemoization", "Fibonacci-withMemoization\Fibonacci-withMemoization.csproj", "{B16A295E-2B26-44E5-AF79-C888DFA78336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci-withMemoization", "Fibonacci-withMemoization\Fibonacci-withMemoization.csproj", "{B16A295E-2B26-44E5-AF79-C888DFA78336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveDownRight", "MoveDownRight\MoveDownRight.csproj", "{748095AE-0D84-4DCA-8539-0EE789B733F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveDownRight", "MoveDownRight\MoveDownRight.csproj", "{748095AE-0D84-4DCA-8539-0EE789B733F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence_withNums", "LongestIncreasingSubsequence\LongestIncreasingSubsequence_withNums.csproj", "{016B0168-D0A1-4CAD-BE51-BF6014718172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{748095AE-0D84-4DCA-8539-0EE789B733F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748095AE-0D84-4DCA-8539-0EE789B733F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748095AE-0D84-4DCA-8539-0EE789B733F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016B0168-D0A1-4CAD-BE51-BF6014718172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016B0168-D0A1-4CAD-BE51-BF6014718172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016B0168-D0A1-4CAD-BE51-BF6014718172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016B0168-D0A1-4CAD-BE51-BF6014718172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
