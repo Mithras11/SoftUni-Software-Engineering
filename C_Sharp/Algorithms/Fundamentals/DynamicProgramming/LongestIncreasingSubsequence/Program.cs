@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace LongestIncreasingSubsequence
 {
@@ -7,63 +6,38 @@ namespace LongestIncreasingSubsequence
     {
         static void Main(string[] args)
         {
-            var numbers = new int[] { 3, 14, 5, 12, 7, 8, 9, 11, 10, 1 };
+            var first = Console.ReadLine();
+            var second = Console.ReadLine();
 
-            var solutions = new int[numbers.Length];
-            var prevSolIndexes = new int[numbers.Length];
+            var matrix = new int[first.Length + 1, second.Length + 1];
 
+            char currChar1;
+            char currChar2;
+            int upper;
+            int left;
 
-            var maxSolution = 0;
-            var maxSolIndex = 0;
-
-            for (int currIndex = 0; currIndex < numbers.Length; currIndex++)
+            for (int row = 1; row < matrix.GetLength(0); row++)
             {
-                var solution = 1;
-                var prevIndex = -1;
-
-                var currNumber = numbers[currIndex];
-
-                for (int solIndex = 0; solIndex < currIndex; solIndex++)
+                for (int col = 1; col < matrix.GetLength(1); col++)
                 {
-                    var prevNumber = numbers[solIndex];
-                    var prevSolution = solutions[solIndex];
+                    currChar1 = first[row - 1];
+                    currChar2 = second[col - 1];
 
-                    if (currNumber > prevNumber
-                        && solution <= prevSolution)
+                    if (currChar1 == currChar2)
                     {
-                        solution = prevSolution + 1;
-                        prevIndex = solIndex;
+                        matrix[row, col] = matrix[row - 1, col - 1] + 1;
                     }
+                    else
+                    {
+                        upper = matrix[row - 1, col];
+                        left = matrix[row, col - 1];
 
-                }
-
-                solutions[currIndex] = solution;
-                prevSolIndexes[currIndex] = prevIndex;
-
-                if (solution > maxSolution)
-                {
-                    maxSolution = solution;
-                    maxSolIndex = currIndex;
+                        matrix[row, col] = Math.Max(upper, left);
+                    }
                 }
             }
 
-            var index = maxSolIndex;
-
-            var result = new List<int>();
-
-            while (index != -1)
-            {
-                var currentNumber = numbers[index];
-
-                result.Add(currentNumber);
-
-                index = prevSolIndexes[index];
-            }
-
-            result.Reverse();
-
-            Console.WriteLine(string.Join(' ', result));
-
+            Console.WriteLine(matrix[first.Length, second.Length]);
         }
     }
 }
