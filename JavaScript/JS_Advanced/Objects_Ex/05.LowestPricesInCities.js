@@ -1,29 +1,26 @@
-function solve(products) {
-
-    const result = {};
-
-    for (const product of products) {
-
-        let [town, name, price] = product.split(' | ');
-        price = +price;
-
-        if (name in result == false) {
-
-            result[name] = { town, price };
-
-        } else if (result[name].price > price) {
-            result[name].price = price;
-            result[name].town = town;
+function solve(input = []) {
+    let products = new Map();
+    for (let productData of input) {
+        let [town, product, price] = productData.split(" | ");
+        if (!products.has(product)) {
+            products.set(product, new Map());
         }
+        products.get(product).set(town, +price);
     }
 
-    let msg = '';
+    let output = '';
+    for (let [key, value] of products) {
+        let [town, price] = [...value].reduce((acc, value) => {
+            if (acc[1] > value[1]) {
+                return value;
+            }
 
-    for (const key in result) {
-        msg += `${key} -> ${result[key].price} (${result[key].town})` + '\n';
-    };
+            return acc;
+        });
+        output += `${key} -> ${price} (${town})\n`;
+    }
 
-    return msg.trim();
+    return output.trim();
 }
 
 console.log(solve([
@@ -33,7 +30,8 @@ console.log(solve([
     'Sofia | Orange | 1',
     'Sofia | Peach | 2',
     'New York | Sample Product | 1000.1',
-    'New York | Burger | 10']));
+    'New York | Burger | 10'
+]));
 
 console.log(solve([
     'Sofia City | Audi | 100000',
@@ -46,4 +44,5 @@ console.log(solve([
     'New York City | Mitsubishi | 10000',
     'New York City | Mitsubishi | 1000',
     'Mexico City | Audi | 100000',
-    'Washington City | Mercedes | 1000']));
+    'Washington City | Mercedes | 1000'
+]));
