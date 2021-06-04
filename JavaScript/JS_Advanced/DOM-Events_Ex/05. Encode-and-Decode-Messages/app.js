@@ -23,44 +23,41 @@ function encodeAndDecodeMessages() {
     function onClickDecode(event) {
 
         let messageToDecode = document.getElementsByTagName('textarea')[1];
-        let result = document.getElementsByTagName('textarea')[0];
 
         let decodedMessage = decode(messageToDecode.value);
 
-
-        result.value = decodedMessage;
-        messageToDecode.value = '';
+        messageToDecode.value = decodedMessage;
 
     }
 
 
     function encode(msg) {
 
-        let newMsg = '';
+        let newMsg = [];
 
         for (let i = 0; i < msg.length; i++) {
 
             let char = msg.charCodeAt(i);
 
-            newMsg += String.fromCharCode(++char);
+            newMsg.push(String.fromCharCode(++char));
         }
 
-        return newMsg;
+        return newMsg.join('');
     }
 
     function decode(msg) {
 
 
-        let newMsg = '';
+        let newMsg = [];
 
         for (let i = 0; i < msg.length; i++) {
 
             let char = msg.charCodeAt(i);
 
-            newMsg += String.fromCharCode(--char);
+            newMsg.push(String.fromCharCode(--char));
         }
 
-        return newMsg;
+        return newMsg.join('');
 
     }
 
