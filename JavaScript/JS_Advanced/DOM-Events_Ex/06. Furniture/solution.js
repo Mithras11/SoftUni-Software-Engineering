@@ -83,7 +83,118 @@ function solve() {
 
     }
 
+}
 
+
+//----different approach-----//
+
+function solve() {
+
+    const [input, output] = document.querySelectorAll('textarea');
+    const table = document.querySelector('table.table tbody');
+    const [generateBtn, buyBtn] = [...document.querySelectorAll('button')];
+
+    const furniture = [];
+
+    generateBtn.addEventListener('click', () => {
+
+        const furnitureArr = JSON.parse(input.value.trim());
+
+        furnitureArr.forEach(f => {
+
+            const item = createRow(f);
+
+            furniture.push(item);
+            table.appendChild(item.element);
+
+        });
+
+
+    });
+
+
+    buyBtn.addEventListener('click', () => {
+
+        let names = [];
+        let totalPrice = 0;
+        let avgDecFactor = 0;
+
+        furniture.filter(f => f.isChecked())
+            .forEach(f => {
+
+                const values = f.getValues();
+
+                names.push(values.name);
+                totalPrice += +(values.price);
+                avgDecFactor += +(values.decFactor);
+            });
+
+        let result = `Bought furniture: ${names.join(', ')}\n`;
+
+        result += `Total price: ${totalPrice.toFixed(2)}\n`;
+
+        avgDecFactor /= names.length;
+
+        result += `Average decoration factor: ${avgDecFactor}`;
+
+
+        output.textContent = result;
+
+    });
+
+    const td = createElem.bind(null, 'td');
+    const p = createElem.bind(null, 'p');
+
+    function createRow(data) {
+
+        const img = createElem('img');
+        img.src = data.img;
+
+        const check = createElem('input');
+        check.type = 'checkbox';
+
+        const element = createElem('tr',
+            td(img),
+            td(p(data.name)),
+            td(p(data.price)),
+            td(p(data.decFactor)),
+            td(check));
+
+        return {
+            element,
+            isChecked,
+            getValues,
+        }
+
+
+        function isChecked() {
+            return check.checked;
+        }
+
+        function getValues() {
+            return data;
+        }
+
+    }
+
+    function createElem(type, ...content) {
+
+        const result = document.createElement(type);
+
+        content.forEach(e => {
+
+            if (typeof e === 'string') {
+                const node = document.createTextNode(e);
+
+                result.appendChild(node);
+
+            } else {
+                result.appendChild(e);
+            }
+        })
+
+        return result;
+    };
 
 
 
