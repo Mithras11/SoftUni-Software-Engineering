@@ -219,7 +219,7 @@ class Story {
             }
 
             this._comments[indxOfComment].replies.push({
-                id: `${id}.${this._comments[indxOfComment].replies.length+1}`, //???
+                id: `${id}.${this._comments[indxOfComment].replies.length+1}`,
                 username,
                 content,
             });
@@ -232,8 +232,8 @@ class Story {
         let sortedComments = [];
 
         if (sortingType === 'asc') {
-            this._comments.forEach(c => c.replies.sort((a, b) => a.Id - b.Id));
-            sortedComments = this._comments.sort((a, b) => a.Id - b.Id);
+            this._comments.forEach(c => c.replies.sort((a, b) => a.id - b.id));
+            sortedComments = this._comments.sort((a, b) => a.id - b.id);
 
         } else if (sortingType === 'desc') {
             this._comments.forEach(c => c.replies.reverse());
