@@ -20,14 +20,14 @@ class Parking {
 
     removeCar(carNumber) {
         if (!this.vehicles.some(x => x.carNumber === carNumber)) {
-            throw new Error("The car, you're looking for, is not found");
+            throw new Error("The car, you're looking for, is not found.");
 
         } else {
 
             let car = this.vehicles.find(x => x.carNumber === carNumber);
 
             if (car.payed === false) {
-                return `${carNumber} needs to pay before leaving the parking lot.`;
+                throw new Error(`${carNumber} needs to pay before leaving the parking lot.`);
 
             } else {
                 let indx = this.vehicles.indexOf(car);
@@ -48,7 +48,7 @@ class Parking {
             let car = this.vehicles.find(x => x.carNumber === carNumber);
 
             if (car.payed) {
-                return `${carNumber}'s driver has already payed his ticket.`;
+                throw new Error(`${carNumber}'s driver has already payed his ticket.`);
 
             } else {
 
