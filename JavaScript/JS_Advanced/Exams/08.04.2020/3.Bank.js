@@ -3,16 +3,15 @@ class Bank {
         this._bankName = bankName;
         this.allCustomers = [];
 
-        this._transactions = [];
     }
 
-    newCustomer(customer) { //{firstName, lastName, personalId}
+    newCustomer(customer) {
 
         let { firstName, lastName, personalId } = customer;
 
         if (this.allCustomers.some(x => x.firstName === firstName &&
                 x.lastName === lastName &&
-                x.personalId === personalId)) {
+                x.personalId === personalId)) { //проверка само по Id?
 
             throw new Error(`${firstName} ${lastName} is already our customer!`)
         }
@@ -34,27 +33,16 @@ class Bank {
             currCustomer.totalMoney = 0;
         }
 
-        currCustomer.totalMoney += amount;
+        currCustomer.totalMoney += Number(amount); //?
 
+        if (!currCustomer.hasOwnProperty('transactions')) {
+            currCustomer.transactions = [];
 
-
-        let currTrans = this._transactions.find(x => x.personalId === personalId);
-
-        if (!currTrans) {
-            currTrans = {
-                personalId,
-                data: [],
-            };
-
-            this._transactions.push(currTrans);
         }
 
-        currTrans.data.push(
-            `${currCustomer.firstName} ${currCustomer.lastName} made deposit of ${amount}$!`,
-        );
+        let currTransaction = { type: 'made deposit of', amount };
+        currCustomer.transactions.push(currTransaction);
 
-
-        //console.log(this._transactions);
 
         return `${currCustomer.totalMoney}$`;
 
@@ -68,30 +56,21 @@ class Bank {
             throw new Error('We have no customer with this ID!');
         }
 
-        if (!currCustomer.totalMoney >= amount) { //???
+        if (currCustomer.totalMoney < amount ||
+            !currCustomer.hasOwnProperty('totalMoney')) { //???
             throw new Error(`${currCustomer.firstName} ${currCustomer.lastName} does not have enough money to withdraw that amount!`);
         }
 
         currCustomer.totalMoney -= amount;
 
-        let currTrans = this._transactions.find(x => x.personalId === personalId);
+        if (!currCustomer.hasOwnProperty('transactions')) {
+            currCustomer.transactions = [];
 
-        if (!currTrans) {
-            currTrans = {
-                personalId,
-                data: [],
-            };
-
-            this._transactions.push(currTrans);
         }
 
-        currTrans.data.push(
-            `${currCustomer.firstName} ${currCustomer.lastName} withdrew ${amount}$!`,
-        );
+        let currTransaction = { type: 'withdrew', amount };
+        currCustomer.transactions.push(currTransaction);
 
-
-
-        //console.log(this._transactions);
 
         return `${currCustomer.totalMoney}$`
 
@@ -100,6 +79,7 @@ class Bank {
     customerInfo(personalId) {
 
         let currCustomer = this.allCustomers.find(x => x.personalId === personalId);
+
 
         if (!currCustomer) {
             throw new Error('We have no customer with this ID!');
@@ -113,16 +93,11 @@ class Bank {
             `Total Money: ${currCustomer.totalMoney}$\n` +
             `Transactions:\n`;
 
-        let currTrans = this._transactions.find(x => x.personalId === personalId);
 
-        //console.log(currTrans.data);
+        for (let i = currCustomer.transactions.length - 1; i >= 0; i--) {
+            let { type, amount } = currCustomer.transactions[i];
 
-        for (let i = currTrans.data.length - 1; i >= 0; i--) {
-
-
-            // console.log(transactionsData[i].data);
-
-            result += `${i+1}. ${currTrans.data[i]}\n`;
+            result += `${i+1}. ${currCustomer.firstName} ${currCustomer.lastName} ${type} ${amount}$!\n`;
 
         }
 
