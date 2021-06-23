@@ -1,26 +1,31 @@
 function solve() {
-    const task = document.querySelector('#task').value;
-    const description = document.querySelector('#description').value;
-    const dueDate = document.querySelector('#date').value;
+    // const task = document.querySelector('#task').value;
+    // const description = document.querySelector('#description').value;
+    // const dueDate = document.querySelector('#date').value;
 
     const addBtn = document.querySelector('#add');
     addBtn.addEventListener('click', onClickAdd);
 
-    // const openSection = document.querySelector('.orange').parentNode.parentNode.children[1];
+    const openSection = document.querySelector('.orange').parentNode.parentNode.children[1];
     //const openSection = document.querySelector('section:nth-child(2) > div:nth-child(2)');
-    const openSection = document.querySelector('body > main > div > section:nth-child(2) > div:nth-child(2)');
+    //const openSection = document.querySelector('body > main > div > section:nth-child(2) > div:nth-child(2)');
 
     const inProgressSection = document.querySelector('#in-progress');
 
-    //const completeSection = document.querySelector('.green').parentNode.parentNode.children[1];
+    const completeSection = document.querySelector('.green').parentNode.parentNode.children[1];
     //const completeSection = document.querySelector('section:nth-child(4) > div:nth-child(2)');
-    const completeSection = document.querySelector('body > main > div > section:nth-child(4) > div:nth-child(2)');
+    //const completeSection = document.querySelector('body > main > div > section:nth-child(4) > div:nth-child(2)');
 
 
 
     function onClickAdd(event) {
 
         event.preventDefault();
+
+
+        const task = document.querySelector('#task').value;
+        const description = document.querySelector('#description').value;
+        const dueDate = document.querySelector('#date').value;
 
         if (task && description && dueDate) {
 
