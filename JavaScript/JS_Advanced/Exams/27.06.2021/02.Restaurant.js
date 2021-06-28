@@ -20,23 +20,23 @@ class Restaurant {
                 if (currProduct === undefined) {
                     this.stockProducts[productName] = { productQuantity, totalPrice };
                 } else {
-                    this.stockProducts[productName].productQuantity += productQuantity;
+                    this.stockProducts[productName].productQuantity += Number(productQuantity);
                 }
 
-                this.budgetMoney -= totalPrice;
+                this.budgetMoney -= Number(totalPrice);
 
                 this.history.push(`Successfully loaded ${productQuantity} ${productName}`);
             }
         }
 
         //console.log(this.budget);
-        return this.history.join('\n').trimEnd();
+        return this.history.join('\n');
     }
 
     addToMenu(meal, neededArr, price) {
 
         if (this.menu.hasOwnProperty(meal)) {
-            return `The ${meal} is already in the our menu, try something different.`;
+            return `The ${meal} is already in our menu, try something different.`;
 
         } else {
 
@@ -48,7 +48,7 @@ class Restaurant {
                 return acc;
             }, []);
 
-            this.menu[meal] = { neededProducts, price };
+            this.menu[meal] = { neededProducts, price: Number(price) };
 
 
             let count = (Object.keys(this.menu)).length;
@@ -93,7 +93,7 @@ class Restaurant {
         let target = this.menu[meal];
 
         if (target === undefined) {
-            return `There is not ${meal} yet иn our menu, do you want to order something else?`;
+            return `There is not ${meal} yet in our menu, do you want to order something else?`;
 
         } else {
 
@@ -104,7 +104,7 @@ class Restaurant {
                     return `For the time being, we cannot complete your order (${meal}), we are very sorry...`;
                 }
 
-                if (this.stockProducts[(currProduct.productName)].productQuantity < currProduct.productQuantity) {
+                if (this.stockProducts[(currProduct.productName)].productQuantity < Number(currProduct.productQuantity)) {
                     return `For the time being, we cannot complete your order (${meal}), we are very sorry...`; //???
                 }
 
@@ -113,7 +113,7 @@ class Restaurant {
 
             for (const currProduct of targetProducts) {
 
-                this.stockProducts[(currProduct.productName)].productQuantity -= currProduct.productQuantity;
+                this.stockProducts[(currProduct.productName)].productQuantity -= Number(currProduct.productQuantity);
             }
 
             this.budgetMoney += target.price
