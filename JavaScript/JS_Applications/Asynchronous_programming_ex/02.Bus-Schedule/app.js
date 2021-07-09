@@ -1,17 +1,76 @@
-function solve() {
+ function solve() {
 
-    function depart() {
-        console.log('Depart TODO...');
-    }
+     const departBtn = document.getElementById('depart');
+     const arriveBtn = document.getElementById('arrive');
 
-    function arrive() {
-        console.log('Arrive TODO...');
-    }
+     const infoBox = document.querySelector('.info');
 
-    return {
-        depart,
-        arrive
-    };
-}
+     let stopId = 'depot';
+     let stopName;
+     let response;
+     let data;
+     let url;
 
-let result = solve();
+     async function depart() {
+         arriveBtn.disabled = false;
+         departBtn.disabled = true;
+
+         url = `http://localhost:3030/jsonstore/bus/schedule/${stopId}`;
+
+         try {
+
+             response = await fetch(url);
+
+             if (!response.statusText) {
+                 throw new Error;
+             }
+
+             data = await response.json();
+
+             stopId = data.next;
+             stopName = data.name;
+
+             infoBox.textContent = `Next stop ${stopName}`;
+
+         } catch {
+
+             arriveBtn.disabled = true;
+             infoBox.textContent = 'Error';
+         }
+     }
+
+     async function arrive() {
+         departBtn.disabled = false;
+         arriveBtn.disabled = true;
+
+         url = `http://localhost:3030/jsonstore/bus/schedule/${stopId}`;
+
+         try {
+
+             response = await fetch(url);
+
+             if (!response.statusText) {
+                 throw new Error;
+             }
+
+             data = await response.json();
+
+             stopId = data.next;
+             stopName = data.name;
+
+             infoBox.textContent = `Arriving at ${stopName}`;
+
+         } catch {
+
+             departBtn.disabled = true;
+             infoBox.textContent = 'Error';
+         }
+     }
+
+     return {
+         depart,
+         arrive
+     };
+ }
+
+ let result = solve();
