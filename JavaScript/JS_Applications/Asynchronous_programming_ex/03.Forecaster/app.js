@@ -1,89 +1,148 @@
-async function attachEvents() {
+ function attachEvents() {
 
-    const location = document.querySelector('#location').value;
-    let url = `http://localhost:3030/jsonstore/forecaster/locations`;
+     const submitBtn = document.querySelector('#submit');
+     submitBtn.addEventListener('click', getForecasts);
 
-    let response = await fetch(url);
+     async function getForecasts() {
 
-    let data = await response.json();
+         const location = document.querySelector('#location');
+         let url = `http://localhost:3030/jsonstore/forecaster/locations`;
 
-    const locationCode = data.find(x => x.name === location).code;
+         let parentDiv = document.querySelector('#forecast');
+         let locationCode;
 
-    const conditionSymbols = {
-        'Sunny': '&#x2600;',
-        'Partly sunny': '&#x26C5;',
-        'Overcast': '&#x2601;',
-        'Rain': '&#x2614;',
-        'Degrees': '&#176;'
-    }
+         const conditionSymbols = {
+             'Sunny': '&#x2600;',
+             'Partly sunny': '&#x26C5;',
+             'Overcast': '&#x2601;',
+             'Rain': '&#x2614;',
+             'Degrees': '&#176;'
+         };
 
-    //---- current conditions----//
+         try {
 
-    url = `http://localhost:3030/jsonstore/forecaster/today/${locationCode}`;
+             let response = await fetch(url);
 
-    response = await fetch(url);
+             if (!response.statusText) {
 
-    data = await response.json();
+                 throw new Error;
+             }
 
-    let locationName = data.name;
-    let [condition, high, low] = Object.values(data.forecast);
+             let data = await response.json();
 
-    let parentDiv = document.querySelector('#forecast');
-    parentDiv.style.display = 'block';
+             let target = data.find(x => x.name === location.value);
 
-    let currentDiv = document.querySelector('#current');
+             if (target === undefined) {
+                 throw new Error;
+             }
 
-    let forecastsDiv = createElement('div', 'forecasts', null, currentDiv);
+             locationCode = target.code;
 
-    let symbolSpan = createElement('span', 'condition', null, forecastsDiv);
-    symbolSpan.classList.add('symbol');
-    symbolSpan.innerHTML = conditionSymbols[condition];
+         } catch {
 
-    let conditionSpan = createElement('span', 'condition', null, forecastsDiv);
-    let locSpan = createElement('span', 'forecast-data', locationName, conditionSpan);
-    let tempSpan = createElement('span', 'forecast-data', `${low}°/${high}°`, conditionSpan);
-    let condSpan = createElement('span', 'forecast-data', condition, conditionSpan);
-
-
-    //------3day forecast----//
-
-    url = `http://localhost:3030/jsonstore/forecaster/upcoming/${locationCode}`
-
-    response = await fetch(url);
-
-    data = await response.json();
+             handleError();
+         }
 
 
-    currentDiv = document.querySelector('#upcoming');
-    forecastsDiv = createElement('div', 'forecast-info', null, currentDiv);
+         //---- current conditions----//
 
-    data.forecast.forEach(x => {
+         url = `http://localhost:3030/jsonstore/forecaster/today/${locationCode}`;
 
-        [condition, high, low] = Object.values(x);
+         try {
 
-        let upcomingSpan = createElement('span', 'upcoming', null, forecastsDiv);
+             response = await fetch(url);
 
-        symbolSpan = createElement('span', 'symbol', null, upcomingSpan);
-        symbolSpan.innerHTML = conditionSymbols[condition];
+             if (!response.statusText) {
+                 throw new Error;
+             }
 
-        tempSpan = createElement('span', 'forecast-data', `${low}°/${high}°`, upcomingSpan);
-        condSpan = createElement('span', 'forecast-data', condition, upcomingSpan);
+             data = await response.json();
 
-    });
+             let locationName = data.name;
+             let [condition, high, low] = Object.values(data.forecast);
+
+             clearRequestBar();
+
+             let currentDiv = document.querySelector('#current');
+
+             let forecastsDiv = createElement('div', 'forecasts', null, currentDiv);
+
+             let symbolSpan = createElement('span', 'condition', null, forecastsDiv);
+             symbolSpan.classList.add('symbol');
+             symbolSpan.innerHTML = conditionSymbols[condition];
+
+             let conditionSpan = createElement('span', 'condition', null, forecastsDiv);
+             let locSpan = createElement('span', 'forecast-data', locationName, conditionSpan);
+             let tempSpan = createElement('span', 'forecast-data', `${low}°/${high}°`, conditionSpan);
+             let condSpan = createElement('span', 'forecast-data', condition, conditionSpan);
+
+         } catch {
+
+             handleError();
+         }
+
+
+         //------3-day forecast----//
+
+         url = `http://localhost:3030/jsonstore/forecaster/upcoming/${locationCode}`;
+
+         try {
+
+             response = await fetch(url);
+
+             if (!response.statusText) {
+                 throw new Error;
+             }
+
+             data = await response.json();
+
+             currentDiv = document.querySelector('#upcoming');
+             forecastsDiv = createElement('div', 'forecast-info', null, currentDiv);
+
+             data.forecast.forEach(x => {
+
+                 [condition, high, low] = Object.values(x);
+
+                 let upcomingSpan = createElement('span', 'upcoming', null, forecastsDiv);
+
+                 symbolSpan = createElement('span', 'symbol', null, upcomingSpan);
+                 symbolSpan.innerHTML = conditionSymbols[condition];
+
+                 tempSpan = createElement('span', 'forecast-data', `${low}°/${high}°`, upcomingSpan);
+                 condSpan = createElement('span', 'forecast-data', condition, upcomingSpan);
+
+             });
+
+         } catch {
+
+             handleError();
+         }
 
 
 
+         function createElement(type, className, text, appender) {
 
-    function createElement(type, className, text, appender) {
+             let result = document.createElement(type);
+             result.classList.add(className);
+             result.textContent = text;
+             appender.appendChild(result);
 
-        let result = document.createElement(type);
-        result.classList.add(className);
-        result.textContent = text;
-        appender.appendChild(result);
+             return result;
+         }
 
-        return result;
-    }
+         function handleError() {
+             location.value = '';
+             parentDiv.style.display = 'block';
+             parentDiv.innerHTML = '<div id="current"><div class="label">ERROR</div>';
 
-}
+         }
 
-attachEvents();
+         function clearRequestBar() {
+             location.value = '';
+             parentDiv.style.display = 'block';
+             parentDiv.innerHTML = '<div id="current"><div class="label">Current conditions</div></div><div id="upcoming"><div class="label">Three-day forecast</div></div>';
+         }
+     }
+ }
+
+ attachEvents();
