@@ -123,8 +123,14 @@
          function createElement(type, className, text, appender) {
 
              let result = document.createElement(type);
+
              result.classList.add(className);
-             result.textContent = text;
+
+             if (text) {
+
+                 result.textContent = text;
+             }
+
              appender.appendChild(result);
 
              return result;
