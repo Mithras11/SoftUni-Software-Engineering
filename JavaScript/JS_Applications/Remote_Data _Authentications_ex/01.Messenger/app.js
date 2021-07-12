@@ -17,6 +17,11 @@ function attachEvents() {
         const authorName = author.value;
         const msgText = content.value;
 
+        if (authorName === '' || msgText === '') {
+            alert('All fields are required!');
+            return;
+        }
+
         const response = await fetch(url, {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },
