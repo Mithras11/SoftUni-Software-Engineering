@@ -44,7 +44,6 @@ nav a {
 nav a:hover {
     background-color: #6c8b47;
     color: white;
-    cursor: pointer;
 }
 
 a.active {
@@ -67,52 +66,22 @@ div {
 }
 
 aside {
-    width: 20%;
+    width: 15%;
     display: inline-block;
-}
-
-.update:disabled, .delete:disabled, .add:disabled {
-    background-color: rgba(66, 66, 66, 0.38);
-    color: rgba(66, 66, 66, 0.7);
-}
-
-.update:disabled:hover, .delete:disabled:hover, .add:disabled:hover {
-    cursor: no-drop;
-}
-
-.update {
-    background-color: rgb(209, 167, 62);
-}
-
-.delete {
-    background-color: rgb(207, 83, 52);
-}
-
-.add, .load {
-    background-color: rgb(95, 207, 105);
-}
-
-button:hover {
-    cursor: pointer;
-    color: white;
 }
 
 button {
     background-color: rgba(66, 66, 66, 0.32);
     border: none;
     outline: none;
+    cursor: pointer;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 19px;
-    width: 90%;
+    width: 100%;
     margin: 5px 0;
     padding: 9px 0;
     border-radius: 4px;
-    color: black;
-}
-
-#login button:hover, #register button:hover {
-    background-color: rgb(95, 207, 105);
 }
 
 fieldset {
@@ -125,7 +94,6 @@ fieldset#main {
     width: 70%;
     margin: 0 50px 0 0;
     padding-bottom: 14px;
-    display: none;
 }
 
 input {
@@ -138,25 +106,21 @@ input {
 }
 
 label {
-    display: block;
     margin: 5px;
     border: 1px solid white;
-    font-weight: bold;
 }
 
-legend {
-    font-weight: bold;
-    padding: 5px 10px;
+hr {
+    display: block;
 }
 
-#main, input {
+.catches {
     text-align: center;
 }
 
 .catch {
     border: 1px solid black;
-    margin: 5px 15px;
-    width: 250px;
+    width: 30%;
 }
 
 .row {
@@ -174,43 +138,4 @@ legend {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-}
-
-#views {
-    display: none;
-}
-
-#user {
-    display: none;
-}
-
-#guest {
-    display: none;
-}
-
-#home-view {
-    text-align: end;
-}
-
-#home-view aside {
-    text-align: center;
-}
-
-.notification {
-    color: red;
-    margin-top: 0.5%;
-    height: 30px;
-}
-
-.email {
-    padding-top: 10px;
-}
-
-.email span {
-    color: teal;
-}
-
-.email span:hover {
-    color: white;
-    cursor: pointer;
 }
