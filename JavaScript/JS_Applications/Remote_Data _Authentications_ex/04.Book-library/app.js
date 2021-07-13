@@ -2,11 +2,11 @@ function start() {
     document.querySelector('#editForm').style.display = 'none';
 
     document.querySelector('#loadBooks').addEventListener('click', loadAllBooks);
-    document.querySelector('form').addEventListener('submit', onClickCreate);
-
+    document.querySelector('#createForm').addEventListener('submit', onClickCreate);
+    document.querySelector('#editForm').addEventListener('submit', onClickEdit);
 }
 
-async function loadAllBooks(event) {
+async function loadAllBooks() {
     //event.preventDefault();
 
     const allBooks = document.querySelector('tbody');
@@ -23,7 +23,6 @@ async function loadAllBooks(event) {
 
     Object.entries(data).forEach(item => {
         const [id, book] = item;
-        console.log(id, book);
 
         const row = createElement('tr', null, allBooks);
         row.setAttribute('id', id);
@@ -35,10 +34,21 @@ async function loadAllBooks(event) {
         const editBtn = createElement('button', 'Edit', buttons);
         const deleteBtn = createElement('button', 'Delete', buttons);
 
-        editBtn.addEventListener('click', onClickEdit);
+        editBtn.addEventListener('click', prepareForEditing);
+        deleteBtn.addEventListener('click', onClickDelete);
 
 
     });
+}
+
+async function onClickDelete(event) {
+    event.preventDefault();
+    const id = event.target.parentNode.parentNode.id;
+    const response = await fetch(`http://localhost:3030/jsonstore/collections/books/${id}`, {
+        method: 'DELETE'
+    });
+
+    loadAllBooks();
 }
 
 async function onClickCreate(event) {
@@ -51,7 +61,7 @@ async function onClickCreate(event) {
 
 
     if (title == '' || author == '') {
-        alert('All fields are required');
+        return alert('All fields are required');
     }
 
     const response = await fetch('http://localhost:3030/jsonstore/collections/books', {
@@ -74,22 +84,43 @@ async function onClickCreate(event) {
 async function onClickEdit(event) {
     event.preventDefault();
 
+    const formData = new FormData(event.target);
+
+    let title = formData.get('title');
+    let author = formData.get('author');
+    const id = formData.get('id');
+
+    const response = await fetch(`http://localhost:3030/jsonstore/collections/books/${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ author, title })
+    });
+
+    const data = await response.json();
+
+    editForm.querySelector('[name=title]').value = '';
+    editForm.querySelector('[name=author]').value = '';
+
+    document.querySelector('#createForm').style.display = 'block';
+    document.querySelector('#editForm').style.display = 'none';
+
+    loadAllBooks();
+
+}
+
+async function prepareForEditing(event) {
+    event.preventDefault();
+
     document.querySelector('#createForm').style.display = 'none';
+    document.querySelector('#editForm').style.display = 'block';
 
-    const editForm = document.querySelector('#editForm');
-    editForm.style.display = 'block';
+    const id = event.target.parentNode.parentNode.id;
+    const response = await fetch(`http://localhost:3030/jsonstore/collections/books/${id}`);
+    const book = await response.json();
 
-    const formData = new FormData(editForm);
-
-    const title = event.target.parentNode.parentNode.children[0].textContent;
-    const author = event.target.parentNode.parentNode.children[1].textContent;
-
-    editForm.querySelector('[name=title]').value = title;
-    editForm.querySelector('[name=author]').value = author;
-
-
-
-
+    document.querySelector('#editForm [name="id"]').value = id;
+    document.querySelector('#editForm [name="title"]').value = book.title;
+    document.querySelector('#editForm [name="author"]').value = book.author;
 }
 
 function createElement(type, text, appender) {
