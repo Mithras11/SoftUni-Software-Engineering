@@ -40,31 +40,11 @@
      }
 
      async function arrive() {
+         infoBox.textContent = `Arriving at ${stopName}`;
+
          departBtn.disabled = false;
          arriveBtn.disabled = true;
 
-         url = `http://localhost:3030/jsonstore/bus/schedule/${stopId}`;
-
-         try {
-
-             response = await fetch(url);
-
-             if (!response.statusText) {
-                 throw new Error;
-             }
-
-             data = await response.json();
-
-             stopId = data.next;
-             stopName = data.name;
-
-             infoBox.textContent = `Arriving at ${stopName}`;
-
-         } catch {
-
-             departBtn.disabled = true;
-             infoBox.textContent = 'Error';
-         }
      }
 
      return {
