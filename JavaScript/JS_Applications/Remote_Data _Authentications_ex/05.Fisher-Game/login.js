@@ -1,7 +1,10 @@
-document.querySelector('#register-form').addEventListener('submit', onClickRegister);
-document.querySelector('#login-form').addEventListener('submit', onClickLogin);
+document.querySelector('#register-form').addEventListener('submit', register);
+document.querySelector('#login-form').addEventListener('submit', login);
 
-async function onClickRegister(event) {
+const loginBtn = document.querySelector('#guest [href="login.html"]');
+loginBtn.disabled = true;
+
+async function register(event) {
     event.preventDefault();
 
     const dataForm = new FormData(event.target);
@@ -38,7 +41,7 @@ async function onClickRegister(event) {
 }
 
 
-async function onClickLogin(event) {
+async function login(event) {
     event.preventDefault();
 
     const dataForm = new FormData(event.target);
